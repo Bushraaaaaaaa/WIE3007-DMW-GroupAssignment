@@ -1,0 +1,1001 @@
+ticket_id,ticket_date,customer_id,customer_tier,num_prev_tickets,avg_response_time_prev,issue_type,ticket_text,priority,sentiment_score,urgent_flag,activity_level
+T000001,21/10/2025 16:14,C12345,Classic,2.0,15.5,Login,"I cannot login to my account, it says my password is wrong.",High,-0.9987932443618774,0,Low
+T000002,22/10/2025 1:49,C67890,Silver,4.0,22.1,Payment,My credit card was charged twice for the same order.,Medium,-0.9942781925201416,0,Medium
+T000003,22/10/2025 9:58,C11223,Gold,7.0,30.2,Delivery,"My package has not arrived yet, it was supposed to be here two days ago.",High,-0.9979246854782104,0,Medium
+T000004,22/10/2025 18:42,C44556,Platinum,9.0,45.0,Refund,I need a refund for a product that arrived broken. This is unacceptable.,High,-0.9998044371604919,0,High
+T000005,23/10/2025 2:19,C77889,Classic,1.0,8.0,Product,I have a question about the product specifications before I purchase.,Low,-0.9994675517082214,0,Low
+T000006,23/10/2025 11:05,C99001,Silver,3.0,18.0,Order,Can you please confirm my order details? I think I made a mistake.,Medium,-0.9996967315673828,0,Medium
+T000007,23/10/2025 19:17,C13579,Gold,8.0,38.5,Account,I need to update my shipping address. It's urgent.,Medium,-0.9344869256019592,1,High
+T000008,24/10/2025 5:32,C24680,Platinum,10.0,48.0,Login,I am locked out of my account and need immediate access.,High,-0.9995114803314209,0,High
+T000009,24/10/2025 13:30,C10101,Classic,0.0,2.0,Other,"I am experiencing a minor website glitch, just wanted to report it.",Low,-0.9985828399658203,0,Low
+T000010,24/10/2025 22:56,C20202,Silver,5.0,25.0,Delivery,"My delivery is delayed, can you provide an update?",Medium,-0.9994745850563049,0,Medium
+T000011,25/10/2025 7:12,C30303,Gold,6.0,32.0,Payment,There is a fraudulent charge on my account. Please investigate asap.,High,-0.9929094910621643,1,High
+T000012,25/10/2025 15:16,C40404,Platinum,8.0,40.0,Product,The item I received is not what was advertised. What can be done?,Medium,-0.9996236562728882,0,High
+T000013,26/10/2025 0:51,C50505,Classic,3.0,12.0,Refund,I would like to request a refund for an item I no longer need.,Medium,-0.5001295208930969,0,Low
+T000014,26/10/2025 9:09,C60606,Silver,4.0,20.0,Login,I forgot my password and the reset email is not coming through.,High,-0.9995585083961487,0,Medium
+T000015,26/10/2025 16:53,C70707,Gold,7.0,23.0,Delivery,This is the third time my order has been delayed. This is very frustrating.,High,-0.9995177984237671,0,Medium
+T000016,27/10/2025 1:44,C80808,Platinum,9.0,42.0,Order,My order status has not updated in days. Can you help?,Medium,-0.9985328912734985,0,High
+T000017,27/10/2025 11:02,C90909,Classic,1.0,23.0,Account,I need to change my registered email address.,Low,-0.9995511174201965,0,Medium
+T000018,27/10/2025 18:56,C11111,Silver,5.0,28.0,Refund,"I want a refund for the product I received, it is not working at all.",High,-0.9997819066047668,0,Medium
+T000019,28/10/2025 3:08,C22222,Gold,6.0,30.0,Login,"I am having trouble logging in, can you assist?",Medium,-0.9987431168556213,0,Medium
+T000020,28/10/2025 13:23,C33333,Platinum,7.0,36.0,Payment,My payment failed and I need to complete my order immediately.,High,-0.9994887113571167,0,High
+T000021,28/10/2025 20:25,C44444,Classic,2.0,10.0,Delivery,Can you please tell me when my delivery is expected?,Medium,-0.9740028381347656,0,Low
+T000022,29/10/2025 5:16,C55555,Silver,4.0,23.0,Product,I have a question about the warranty for this product.,Low,-0.9945971965789795,0,Medium
+T000023,29/10/2025 14:38,C66666,Gold,8.0,37.0,Refund,"I need to return an item, but I lost the original packaging. Help needed urgently.",High,-0.9997101426124573,0,High
+T000024,29/10/2025 23:38,C77777,Platinum,9.0,44.0,Account,I need to update my billing information.,Medium,-0.9995707869529724,0,High
+T000025,30/10/2025 6:41,C88888,Classic,0.0,3.0,Order,Just checking to see if my order has shipped yet.,Low,-0.9926620721817017,0,Low
+T000026,30/10/2025 16:33,C99999,Silver,3.0,19.0,Login,"My account has been locked, please unlock it now.",High,-0.9348216652870178,0,Medium
+T000027,31/10/2025 1:41,C12121,Gold,7.0,31.0,Payment,I was overcharged for my last order.,Medium,-0.999049961566925,0,Medium
+T000028,31/10/2025 10:19,C23232,Platinum,10.0,46.0,Delivery,"This delivery is extremely late, and I need my item today!",High,-0.9975109100341797,1,High
+T000029,31/10/2025 17:27,C34343,Classic,1.0,7.0,Product,"I received the wrong product, can you help me exchange it?",Medium,-0.9997268319129944,0,Low
+T000030,1/11/2025 2:35,C45454,Silver,5.0,23.0,Refund,I'd like to inquire about the refund process for my order.,Low,0.6695800423622131,0,Medium
+T000031,1/11/2025 10:49,C56565,Gold,6.0,33.0,Account,"My phone number is no longer valid, I need to update it urgently.",High,-0.9995341300964355,0,High
+T000032,1/11/2025 19:37,C67676,Platinum,8.0,39.0,Login,"I am having issues resetting my password, please advise.",Medium,-0.9967201352119446,0,High
+T000033,2/11/2025 4:38,C78787,Classic,2.0,11.0,Delivery,When will my order be delivered?,Low,-0.998190701007843,0,Low
+T000034,2/11/2025 12:24,C89898,Silver,4.0,21.0,Payment,Is there a way to change my payment method for a pending order?,Medium,-0.999690055847168,0,Medium
+T000035,2/11/2025 22:14,C90909,Gold,7.0,34.0,Product,The product I received is defective and I need it replaced ASAP.,High,-0.9997778534889221,1,High
+T000036,3/11/2025 6:32,C10101,Platinum,9.0,41.0,Refund,I need an immediate refund for this faulty item. It's unusable.,High,-0.9997649788856506,1,High
+T000037,3/11/2025 14:37,C11211,Classic,0.0,4.0,Other,"I noticed a typo on the website, just letting you know.",Low,0.9926041960716248,0,Low
+T000038,3/11/2025 23:40,C22322,Silver,3.0,17.0,Login,I'm unable to access my account. Can you help?,Medium,-0.9997344613075256,0,Medium
+T000039,4/11/2025 7:50,C33433,Gold,8.0,36.0,Delivery,My delivery is taking far too long. I need this resolved now.,High,-0.9995532631874084,0,High
+T000040,4/11/2025 17:02,C44544,Platinum,10.0,47.0,Account,My account seems to have been compromised. Please secure it immediately.,High,-0.9967775940895081,0,High
+T000041,5/11/2025 1:25,C55655,Classic,1.0,9.0,Payment,Can you confirm the price of this item?,Low,-0.9779462814331055,0,Low
+T000042,5/11/2025 11:23,C66766,Silver,4.0,24.0,Refund,I am requesting a refund for an order that was cancelled.,Medium,-0.9989939332008362,0,Medium
+T000043,5/11/2025 19:39,C77877,Gold,7.0,35.0,Login,I'm consistently being logged out of my account. This is very frustrating.,High,-0.9991034865379333,0,High
+T000044,6/11/2025 4:10,C88988,Platinum,9.0,43.0,Product,The color of the product is different than advertised.,Medium,0.9922192096710205,0,High
+T000045,6/11/2025 13:14,C90000,Classic,2.0,13.0,Order,I want to change the quantity of items in my order.,Medium,-0.9994269609451294,0,Low
+T000046,6/11/2025 21:34,C10111,Silver,5.0,27.0,Delivery,"My package is lost, and I need a replacement urgently.",High,-0.9995773434638977,1,Medium
+T000047,7/11/2025 6:28,C11222,Gold,6.0,32.0,Payment,I was charged for an item that was out of stock. Fix this immediately.,High,-0.9993081092834473,0,High
+T000048,7/11/2025 14:45,C12333,Platinum,8.0,40.0,Refund,I need to initiate a return for a product that doesn't fit.,Medium,-0.999799907207489,0,High
+T000049,7/11/2025 22:41,C13444,Classic,0.0,5.0,Account,Could you please guide me on how to set up my profile?,Low,0.971031129360199,0,Low
+T000050,8/11/2025 7:52,C14555,Silver,3.0,16.0,Product,The item is not working as described. I need it fixed or replaced today.,High,-0.9997562766075134,0,Medium
+T000051,8/11/2025 16:29,C15666,Gold,7.0,30.0,Login,I seem to be having recurring login issues.,Medium,-0.9990134239196777,0,Medium
+T000052,9/11/2025 1:27,C16777,Platinum,9.0,23.0,Order,My order was confirmed but I haven't received any shipping updates. This is urgent.,High,0.612352192401886,1,Medium
+T000053,9/11/2025 9:59,C12345,Classic,1.0,5.5,Login,"I cannot login to my account, I have tried resetting my password multiple times.",High,-0.9943197965621948,0,Low
+T000054,9/11/2025 17:17,C67890,Silver,3.0,12.0,Payment,My credit card was charged twice for order #789012.,Medium,-0.9938098788261414,0,Low
+T000055,10/11/2025 2:30,C11223,Gold,7.0,28.5,Delivery,"My package for order #345678 is still not here, it was supposed to arrive yesterday.",High,-0.9991456270217896,0,Medium
+T000056,10/11/2025 11:13,C44556,Platinum,10.0,40.0,Refund,"I need an urgent refund for item #987654, it arrived broken.",High,-0.9992388486862183,1,High
+T000057,10/11/2025 20:44,C77889,Classic,0.0,1.0,Product,Just wondering about the warranty on the new XYZ gadget.,Low,-0.9869065284729004,0,Low
+T000058,11/11/2025 4:15,C99001,Silver,2.0,8.0,Order,Can you help me change the shipping address for order #112233?,Medium,-0.9992788434028625,0,Low
+T000059,11/11/2025 14:01,C12121,Gold,6.0,22.0,Account,I need to update my phone number on my account.,Medium,-0.9994373917579651,0,Medium
+T000060,11/11/2025 22:14,C34343,Platinum,9.0,35.0,Login,"My account is locked, and I need access immediately. This is very frustrating.",High,-0.9992127418518066,0,High
+T000061,12/11/2025 5:39,C56565,Classic,4.0,18.0,Delivery,My delivery for order #556677 seems to be delayed.,Medium,-0.9997088313102722,0,Medium
+T000062,12/11/2025 14:59,C78787,Silver,1.0,3.0,Payment,I have a question about a pending charge on my statement.,Low,-0.9887402653694153,0,Low
+T000063,12/11/2025 23:48,C90909,Gold,8.0,31.0,Product,The product I received is not working at all. I need this fixed today.,High,-0.9996438026428223,0,Medium
+T000064,13/11/2025 8:11,C11111,Platinum,5.0,25.0,Order,Could you assist me with cancelling order #998877?,Medium,-0.9993124008178711,0,Medium
+T000065,13/11/2025 16:30,C22222,Classic,3.0,10.0,Refund,I would like to request a refund for item #445566.,Medium,-0.9981428384780884,0,Low
+T000066,14/11/2025 1:17,C33333,Silver,5.0,15.0,Login,I am unable to log into my account. Please help.,High,0.9841706156730652,0,Medium
+T000067,14/11/2025 11:01,C44444,Gold,7.0,29.0,Payment,There's an unauthorized charge on my account. This needs to be resolved ASAP.,High,-0.9996635913848877,1,Medium
+T000068,14/11/2025 20:03,C55555,Platinum,12.0,45.0,Delivery,My delivery for order #667788 is late again. This is unacceptable.,High,-0.9998037219047546,0,High
+T000069,15/11/2025 4:07,C66666,Classic,2.0,7.0,Account,I just want to check if my address change has been processed.,Low,-0.9987323880195618,0,Low
+T000070,15/11/2025 12:51,C77777,Silver,4.0,14.0,Product,I received the wrong product in my order. What can be done?,Medium,-0.9997598528862,0,Low
+T000071,15/11/2025 21:36,C88888,Gold,9.0,33.0,Refund,I am very frustrated with this refund. It's taking too long.,High,-0.9997957348823547,0,High
+T000072,16/11/2025 4:47,C99999,Platinum,6.0,27.0,Login,My account is locked again. I need access immediately.,High,-0.9957745671272278,0,Medium
+T000073,16/11/2025 13:33,C10101,Classic,0.0,1.5,Other,I have a question about your loyalty program.,Low,-0.9242335557937622,0,Low
+T000074,16/11/2025 23:19,C20202,Silver,3.0,9.0,Delivery,"My order #123456 is showing as delivered, but I haven't received it.",Medium,-0.9993626475334167,0,Low
+T000075,17/11/2025 7:17,C30303,Gold,7.0,26.0,Payment,"My payment failed for order #789012, but the funds were withdrawn.",High,-0.9992688298225403,0,Medium
+T000076,17/11/2025 16:26,C40404,Platinum,11.0,38.0,Product,The item arrived damaged. I need a replacement urgently.,High,-0.9996576309204102,1,High
+T000077,18/11/2025 0:02,C50505,Classic,1.0,4.0,Order,Could you please confirm the status of my order #345678?,Low,-0.974117636680603,0,Low
+T000078,18/11/2025 9:36,C60606,Silver,2.0,6.0,Refund,I want to initiate a refund for an item I no longer need.,Medium,-0.791275680065155,0,Low
+T000079,18/11/2025 18:37,C70707,Gold,8.0,30.0,Login,I am locked out of my account and need help immediately.,High,-0.9992432594299316,0,Medium
+T000080,19/11/2025 3:18,C80808,Platinum,10.0,42.0,Account,I need to change my billing address.,Medium,-0.9996098875999451,0,High
+T000081,19/11/2025 11:18,C90909,Classic,3.0,11.0,Delivery,My delivery is marked as urgent. Please expedite.,High,0.5917662978172302,1,Low
+T000082,19/11/2025 20:33,C11234,Silver,5.0,18.0,Payment,I have a question about a recent payment. It seems incorrect.,Medium,-0.9996016621589661,0,Medium
+T000083,20/11/2025 4:32,C54321,Gold,6.0,24.0,Product,This product is not working as advertised. I need a solution now.,High,-0.9991588592529297,0,Medium
+T000084,20/11/2025 12:33,C98765,Platinum,13.0,48.0,Order,I need to cancel my order #445566. It's an urgent request.,High,-0.9932790398597717,1,High
+T000085,20/11/2025 22:11,C23456,Classic,2.0,5.0,Login,I cannot get into my account. This is very inconvenient.,High,-0.9994903802871704,0,Low
+T000086,21/11/2025 7:11,C87654,Silver,4.0,13.0,Delivery,My package is lost in transit. Can you track it down?,Medium,-0.999626874923706,0,Low
+T000087,21/11/2025 14:16,C34567,Gold,7.0,27.0,Refund,I am very unhappy with the service. I need a refund processed quickly.,High,-0.9997900128364563,0,Medium
+T000088,21/11/2025 23:53,C76543,Platinum,15.0,46.0,Payment,My payment is stuck. I need this resolved immediately or I will dispute the charge.,High,-0.9996418952941895,0,High
+T000089,22/11/2025 9:22,C45678,Classic,1.0,2.0,Account,Just checking if my email update was successful.,Low,-0.9941348433494568,0,Low
+T000090,22/11/2025 18:06,C65432,Silver,3.0,7.0,Product,The color of the item I received is not what I ordered.,Medium,-0.9997528195381165,0,Low
+T000091,23/11/2025 2:37,C56789,Gold,9.0,32.0,Delivery,This is the third time my delivery has been late. This needs to be fixed.,High,-0.9996832609176636,0,High
+T000092,23/11/2025 10:13,C98765,Platinum,11.0,39.0,Login,I am locked out of my account and need to get in ASAP. This is urgent.,High,-0.9599464535713196,1,High
+T000093,23/11/2025 18:32,C12398,Classic,4.0,15.0,Payment,I have a question about the billing cycle.,Medium,-0.9913028478622437,0,Low
+T000094,24/11/2025 3:54,C87965,Silver,2.0,4.0,Order,When will my order #556677 ship?,Low,-0.9992965459823608,0,Low
+T000095,24/11/2025 13:16,C34987,Gold,8.0,29.0,Account,I need to change my primary email address.,Medium,-0.9996187686920166,0,Medium
+T000096,24/11/2025 21:16,C76985,Platinum,10.0,37.0,Refund,This refund is taking ages. I want my money back now!,High,-0.9991807341575623,1,High
+T000097,25/11/2025 4:41,C45987,Classic,3.0,9.0,Login,I am having trouble logging in. Please help.,High,-0.9946016073226929,0,Low
+T000098,25/11/2025 14:15,C65987,Silver,6.0,20.0,Product,The item is not compatible with my existing setup.,Medium,-0.9997935891151428,0,Medium
+T000099,25/11/2025 22:00,C56987,Gold,10.0,34.0,Delivery,My package is late again. I need this delivery immediately.,High,-0.9885799288749695,0,High
+T000100,26/11/2025 6:52,C98987,Platinum,5.0,44.0,Other,Can you provide more information on the extended warranty?,Medium,-0.9978792667388916,0,High
+T000101,26/11/2025 17:12,C12112,Classic,1.0,3.0,Payment,Just a quick question about a charge.,Low,-0.9815396666526794,0,Low
+T000102,27/11/2025 0:26,C87878,Silver,5.0,16.0,Login,"I cannot access my account, and it is urgent.",High,-0.9764001369476318,1,Medium
+T000103,27/11/2025 9:09,C34343,Gold,7.0,25.0,Delivery,My delivery is delayed. I need this package as soon as possible.,High,-0.998596727848053,0,Medium
+T000104,27/11/2025 18:05,C12345,Classic,1.0,5.5,Login,"I cannot login to my account, please reset my password asap",High,-0.9908329844474792,1,Low
+T000105,28/11/2025 3:15,C67890,Silver,3.0,12.0,Payment,"My recent payment failed, can you please check why",Medium,-0.999652624130249,0,Low
+T000106,28/11/2025 11:09,C11223,Gold,7.0,28.0,Delivery,"My package is delayed for the third time, I need it urgently",High,-0.9939752221107483,1,Medium
+T000107,28/11/2025 20:51,C44556,Platinum,5.0,18.0,Refund,I would like to request a refund for order #ABC123,Medium,-0.9985936284065247,0,Medium
+T000108,29/11/2025 4:50,C77889,Classic,0.0,2.0,Product,Just wondering about the features of product XYZ,Low,0.5983180999755859,0,Low
+T000109,29/11/2025 13:27,C99001,Silver,2.0,8.0,Order,I need to change the shipping address for my order,Medium,-0.9996187686920166,0,Low
+T000110,29/11/2025 21:05,C10112,Gold,6.0,30.0,Account,My account is locked and I need immediate access,High,-0.9990598559379578,0,Medium
+T000111,30/11/2025 5:53,C13141,Platinum,4.0,20.0,Login,"I'm having trouble logging in, can you help",Medium,-0.9980397820472717,0,Medium
+T000112,30/11/2025 15:45,C15161,Classic,1.0,23.0,Payment,My card was charged twice for the same order,Low,-0.99072265625,0,Medium
+T000113,30/11/2025 23:55,C17181,Silver,3.0,15.0,Delivery,When can I expect my delivery for order #DEF456,Medium,-0.9937348961830139,0,Low
+T000114,1/12/2025 9:12,C19202,Gold,8.0,35.0,Refund,"This refund is taking too long, I'm very frustrated",High,-0.9997027516365051,0,High
+T000115,1/12/2025 16:22,C21222,Platinum,5.0,22.0,Product,The product I received is not as described,Medium,-0.9992586970329285,0,Medium
+T000116,2/12/2025 1:05,C23242,Classic,0.0,1.5,Other,Could you assist me with a general question about your services,Low,-0.7317427396774292,0,Low
+T000117,2/12/2025 10:52,C25262,Silver,2.0,9.0,Account,I need to update my phone number on file,Medium,-0.9995129108428955,0,Low
+T000118,2/12/2025 18:50,C27282,Gold,7.0,32.0,Login,"I'm locked out of my account again, this is unacceptable",High,-0.9997236132621765,0,High
+T000119,3/12/2025 3:32,C29303,Platinum,4.0,19.0,Payment,There's an unauthorized charge on my credit card,Medium,-0.9981235861778259,0,Medium
+T000120,3/12/2025 13:05,C31323,Classic,1.0,4.0,Delivery,Just wanted to check the status of my delivery,Low,-0.9495186805725098,0,Low
+T000121,3/12/2025 20:30,C33343,Silver,3.0,14.0,Order,Can I cancel my order #GHI789,Medium,-0.9997119307518005,0,Low
+T000122,4/12/2025 5:35,C35363,Gold,6.0,29.0,Product,"The item arrived damaged, I need a replacement",Medium,-0.9996954202651978,0,Medium
+T000123,4/12/2025 13:45,C37383,Platinum,5.0,25.0,Refund,"I need my refund processed immediately, this has taken too long",High,-0.999763548374176,0,Medium
+T000124,4/12/2025 22:53,C39404,Classic,0.0,2.5,Login,"I cannot login, please help me reset my password urgently",High,-0.9985483288764954,0,Low
+T000125,5/12/2025 8:35,C41424,Silver,2.0,7.0,Payment,"My payment was declined, what's the issue",Low,-0.9957518577575684,0,Low
+T000126,5/12/2025 16:35,C43444,Gold,7.0,31.0,Delivery,My delivery is still not here and I was promised it today,High,-0.9976978898048401,0,Medium
+T000127,6/12/2025 1:50,C45464,Platinum,4.0,21.0,Account,I need to change my registered email address,Medium,-0.9994820952415466,0,Medium
+T000128,6/12/2025 8:39,C47484,Classic,1.0,5.0,Product,Is product JKL compatible with my system,Low,0.9703025221824646,0,Low
+T000129,6/12/2025 17:24,C49505,Silver,3.0,13.0,Refund,Can you please expedite my refund request,Medium,-0.9920018911361694,0,Low
+T000130,7/12/2025 2:08,C51525,Gold,8.0,33.0,Login,I'm locked out of my account and need access NOW,High,-0.9984203577041626,0,High
+T000131,7/12/2025 11:49,C53545,Platinum,5.0,23.0,Order,I need to modify my order details before it ships,Medium,-0.9996370077133179,0,Medium
+T000132,7/12/2025 20:57,C55565,Classic,0.0,23.0,Delivery,Just checking on the delivery status of my recent order,Low,-0.9856854677200317,0,Medium
+T000133,8/12/2025 3:57,C57585,Silver,2.0,10.0,Payment,My card has been charged incorrectly,Medium,-0.9984826445579529,0,Low
+T000134,8/12/2025 12:27,C59606,Gold,6.0,27.0,Account,"My address change has not been updated, this is urgent",High,-0.9935113787651062,1,Medium
+T000135,8/12/2025 22:49,C61626,Platinum,4.0,17.0,Product,The color of the product is different from what I ordered,Medium,0.9917520880699158,0,Medium
+T000136,9/12/2025 6:39,C63646,Classic,1.0,6.0,Login,"Still unable to login after trying to reset my password, this is frustrating",High,-0.999473512172699,0,Low
+T000137,9/12/2025 16:08,C65666,Silver,3.0,16.0,Delivery,"My delivery window has passed, when will it arrive",Medium,-0.9990900754928589,0,Medium
+T000138,9/12/2025 23:23,C67686,Gold,7.0,34.0,Refund,"I need this refund processed immediately, it's been weeks",High,-0.9975307583808899,0,High
+T000139,10/12/2025 8:01,C69707,Platinum,5.0,20.0,Payment,My payment for order #MNO123 is still pending,Medium,-0.9943031072616577,0,Medium
+T000140,10/12/2025 17:56,C71727,Classic,0.0,23.0,Order,Could you please provide an update on my order status,Low,-0.9903751015663147,0,Medium
+T000141,11/12/2025 1:53,C73747,Silver,2.0,8.5,Product,The product is not functioning as expected,Medium,-0.9997829794883728,0,Low
+T000142,11/12/2025 10:22,C75767,Gold,6.0,30.0,Login,"I'm locked out of my account again, please fix this ASAP",High,-0.9992576241493225,1,Medium
+T000143,11/12/2025 19:35,C77787,Platinum,4.0,18.0,Delivery,My package seems to be lost in transit,Medium,-0.9997560381889343,0,Medium
+T000144,12/12/2025 3:00,C79808,Classic,1.0,4.5,Account,Can you help me update my billing information,Low,-0.9958113431930542,0,Low
+T000145,12/12/2025 12:33,C81828,Silver,3.0,11.0,Refund,I'm waiting for a refund on a returned item,Medium,-0.9991406202316284,0,Low
+T000146,12/12/2025 21:36,C83848,Gold,8.0,36.0,Payment,This recurring charge needs to be stopped immediately,High,-0.9870885014533997,0,High
+T000147,13/12/2025 5:35,C85868,Platinum,5.0,24.0,Login,I forgot my password and cannot access my account,Medium,-0.9996813535690308,0,Medium
+T000148,13/12/2025 13:51,C87888,Classic,0.0,3.0,Delivery,What is the estimated delivery time for my order,Low,-0.9977815747261047,0,Low
+T000149,13/12/2025 23:33,C89909,Silver,2.0,9.5,Order,I need to change the quantity of an item in my order,Medium,-0.9995560050010681,0,Low
+T000150,14/12/2025 7:58,C91929,Gold,7.0,31.0,Product,The product is defective and I need a replacement urgently,High,-0.999761164188385,0,Medium
+T000151,14/12/2025 15:14,C93949,Platinum,4.0,20.0,Refund,Can you confirm if my refund has been processed,Medium,-0.9966109395027161,0,Medium
+T000152,15/12/2025 0:34,C95969,Classic,1.0,5.0,Payment,My payment method has expired,Low,-0.9986863732337952,0,Low
+T000153,15/12/2025 9:38,C97989,Silver,3.0,15.0,Login,I am unable to log in to my account,Medium,-0.9992210865020752,0,Low
+T000154,15/12/2025 18:07,C99000,Gold,6.0,29.0,Delivery,My delivery is overdue and I need it now,High,0.5337071418762207,0,Medium
+T000155,16/12/2025 3:33,C12345,Classic,1.0,5.2,Login,I cannot login to my account. It says my password is wrong.,High,-0.9991982579231262,0,Low
+T000156,16/12/2025 11:59,C67890,Silver,3.0,12.5,Payment,"I have an issue with a recent payment, can you help?",Medium,-0.9970792531967163,0,Low
+T000157,16/12/2025 20:24,C11223,Gold,7.0,30.1,Delivery,My order has not arrived and it was supposed to be here yesterday.,High,-0.9991664886474609,0,Medium
+T000158,17/12/2025 4:32,C44556,Platinum,5.0,40.5,Refund,"I need a refund for item X, it arrived damaged.",High,-0.9997639060020447,0,High
+T000159,17/12/2025 13:53,C77889,Classic,0.0,2.1,Product,Just wondering about the warranty for product Y.,Low,-0.981186032295227,0,Low
+T000160,17/12/2025 22:33,C99001,Silver,2.0,8.0,Order,I need to change the shipping address for order Z.,Medium,-0.9996021389961243,0,Low
+T000161,18/12/2025 7:29,C22334,Gold,6.0,25.0,Account,"I need to update my contact information, please.",High,-0.9983735084533691,0,Medium
+T000162,18/12/2025 15:00,C55667,Platinum,9.0,38.2,Login,I'm locked out of my account and need assistance asap.,Medium,-0.999198853969574,1,High
+T000163,19/12/2025 0:27,C88990,Classic,2.0,6.5,Payment,My credit card was charged twice for order A.,Medium,-0.9853501319885254,0,Low
+T000164,19/12/2025 7:44,C10112,Silver,4.0,15.0,Delivery,This is the second time my delivery has been delayed. I'm frustrated.,High,-0.9996008276939392,0,Low
+T000165,19/12/2025 16:28,C33445,Gold,8.0,33.0,Product,The product I received is not what was described on the website.,Medium,-0.999576985836029,0,High
+T000166,20/12/2025 2:41,C66778,Platinum,11.0,42.0,Refund,"I demand an immediate refund for my order, it's completely unusable.",High,-0.9993164539337158,0,High
+T000167,20/12/2025 11:00,C99001,Classic,1.0,4.0,Other,Could you assist me with setting up my new device?,Low,-0.9960761666297913,0,Low
+T000168,20/12/2025 18:46,C22334,Silver,3.0,10.0,Account,I need to change the email associated with my account.,Medium,-0.9993316531181335,0,Low
+T000169,21/12/2025 4:19,C55667,Gold,7.0,28.0,Login,"I cannot reset my password, the link is not working.",High,-0.9997209906578064,0,Medium
+T000170,21/12/2025 13:08,C88990,Platinum,10.0,39.5,Payment,My payment failed but the money was deducted from my bank. I need this fixed immediately.,High,-0.9989635944366455,0,High
+T000171,21/12/2025 20:10,C10112,Classic,0.0,3.5,Delivery,When can I expect my package? It was shipped two days ago.,Medium,-0.9980009198188782,0,Low
+T000172,22/12/2025 5:32,C33445,Silver,5.0,18.0,Order,I received the wrong item for order B. Can you help?,Medium,-0.999680757522583,0,Medium
+T000173,22/12/2025 14:22,C66778,Classic,9.0,35.0,Refund,I am requesting a refund for my damaged goods. This is unacceptable.,High,-0.9997712969779968,0,High
+T000174,22/12/2025 22:23,C99001,Platinum,12.0,45.0,Product,The item I received is defective and I need a replacement or refund urgently.,High,-0.9996811151504517,0,High
+T000175,23/12/2025 6:58,C22334,Classic,2.0,7.0,Account,I need to update my billing address.,Medium,-0.9995989203453064,0,Low
+T000176,23/12/2025 16:51,C55667,Silver,4.0,14.0,Login,I'm locked out of my account again. This is very frustrating.,High,-0.9994838237762451,0,Low
+T000177,24/12/2025 1:41,C88990,Gold,8.0,31.0,Delivery,My order is significantly late and I need it now. Where is it?,High,-0.9989175796508789,0,Medium
+T000178,24/12/2025 9:39,C10112,Platinum,10.0,41.0,Payment,I was overcharged for my last order. Please correct this immediately.,High,-0.7010666131973267,0,High
+T000179,24/12/2025 18:18,C33445,Classic,1.0,6.0,Product,Just checking on the status of a product inquiry.,Low,-0.9950054287910461,0,Low
+T000180,25/12/2025 2:51,C66778,Silver,3.0,11.0,Order,Can I cancel an order that was just placed?,Medium,-0.9997084736824036,0,Low
+T000181,25/12/2025 10:58,C99001,Gold,7.0,29.0,Refund,My refund is taking too long. I need it processed asap.,High,-0.9995298385620117,1,Medium
+T000182,25/12/2025 19:43,C22334,Platinum,9.0,37.5,Login,I forgot my password and need to reset it. Please help.,Medium,-0.997724711894989,0,High
+T000183,26/12/2025 3:44,C55667,Classic,0.0,2.5,Delivery,What is the estimated delivery time for my order?,Low,-0.9992203712463379,0,Low
+T000184,26/12/2025 14:09,C88990,Silver,4.0,16.0,Payment,I have a question about a charge on my statement.,Medium,-0.9767405390739441,0,Medium
+T000185,26/12/2025 22:11,C10112,Gold,8.0,32.0,Account,I need to change my registered email address urgently.,High,-0.9993035793304443,0,High
+T000186,27/12/2025 6:57,C33445,Platinum,11.0,43.0,Order,The item I ordered is out of stock and I was not notified. I need a solution now.,High,-0.9996806383132935,0,High
+T000187,27/12/2025 14:33,C66778,Classic,1.0,5.0,Login,I am unable to login to my account. It keeps saying invalid credentials.,High,-0.9972987771034241,0,Low
+T000188,28/12/2025 0:25,C99001,Silver,5.0,20.0,Delivery,My package was marked as delivered but I never received it. This is the third time this has happened.,High,-0.9988712668418884,0,Medium
+T000189,28/12/2025 9:10,C22334,Classic,9.0,36.0,Product,The color of the product is different from what was shown online.,Medium,0.51783686876297,0,High
+T000190,28/12/2025 17:18,C55667,Platinum,10.0,40.0,Refund,I am very unhappy with this product and require an immediate refund.,High,-0.9997461438179016,0,High
+T000191,29/12/2025 1:59,C88990,Classic,2.0,8.0,Other,Can you please provide information on how to return an item?,Low,-0.8902958631515503,0,Low
+T000192,29/12/2025 10:55,C10112,Silver,4.0,13.0,Login,I'm having trouble logging into my account.,Medium,-0.9992891550064087,0,Low
+T000193,29/12/2025 19:37,C33445,Gold,7.0,27.0,Payment,My payment was declined but I have sufficient funds. This needs to be fixed.,High,-0.9969671368598938,0,Medium
+T000194,30/12/2025 2:54,C66778,Platinum,9.0,38.0,Delivery,This delivery is extremely late and I need it as soon as possible. This is urgent.,High,0.9662591814994812,0,High
+T000195,30/12/2025 12:30,C99001,Classic,0.0,3.0,Account,Just wondering when my account details will be updated.,Low,-0.9971151351928711,0,Low
+T000196,30/12/2025 20:18,C22334,Silver,3.0,10.5,Order,I accidentally ordered the wrong size. Can this be changed?,Medium,-0.9996256828308105,0,Low
+T000197,31/12/2025 5:34,C55667,Gold,8.0,30.0,Refund,I need a refund for a faulty item. This is not acceptable.,High,-0.999796450138092,0,Medium
+T000198,31/12/2025 15:13,C88990,Platinum,11.0,42.5,Login,I am locked out of my account and need access immediately. This is critical.,High,-0.9976332187652588,1,High
+T000199,31/12/2025 21:57,C10112,Classic,1.0,4.5,Product,Could you tell me more about the features of product Z?,Low,-0.9935466647148132,0,Low
+T000200,1/1/2026 6:55,C33445,Silver,5.0,19.0,Delivery,My order is taking longer than expected. When will it arrive?,Medium,-0.9984762072563171,0,Medium
+T000201,1/1/2026 15:18,C66778,Gold,9.0,34.0,Account,I need to update my phone number on my account urgently.,High,-0.9992089867591858,0,High
+T000202,2/1/2026 0:01,C99001,Platinum,10.0,41.5,Payment,I was double charged for my order. I need this resolved right away.,High,-0.9946586489677429,0,High
+T000203,2/1/2026 8:49,C22334,Classic,2.0,7.5,Order,I received an incomplete order. What should I do?,Medium,-0.9995786547660828,0,Low
+T000204,2/1/2026 18:49,C55667,Silver,4.0,15.5,Refund,I am extremely dissatisfied with the service and demand a full refund immediately.,High,-0.9992184638977051,0,Low
+T000205,3/1/2026 2:49,C88990,Gold,8.0,31.5,Login,I cannot get into my account and need it fixed today. This is urgent.,High,-0.8835045695304871,1,Medium
+T000206,3/1/2026 12:00,C12345,Classic,1.0,12.5,Login,"I cannot login to my account, please reset my password immediately.",High,-0.9875856637954712,0,Low
+T000207,3/1/2026 20:16,C23456,Silver,3.0,20.1,Payment,"My payment failed, can you help me resolve this?",Medium,-0.9997084736824036,0,Medium
+T000208,4/1/2026 5:36,C34567,Gold,6.0,30.5,Delivery,"My order is late, I need it by tomorrow.",High,-0.9971250891685486,0,Medium
+T000209,4/1/2026 13:36,C45678,Platinum,8.0,40.0,Refund,I want a refund for a faulty product I received.,High,-0.9997778534889221,0,High
+T000210,4/1/2026 21:01,C56789,Classic,0.0,5.0,Product,I have a question about the features of product X.,Low,-0.9486272931098938,0,Low
+T000211,5/1/2026 7:06,C67890,Silver,2.0,15.0,Order,I need to change the shipping address for my recent order.,Medium,-0.9995855689048767,0,Low
+T000212,5/1/2026 14:42,C78901,Gold,5.0,25.5,Account,I need to update my email address on file.,Medium,-0.9995108842849731,0,Medium
+T000213,6/1/2026 0:00,C89012,Platinum,10.0,45.0,Login,My account is locked and I urgently need access.,High,-0.9980700612068176,1,High
+T000214,6/1/2026 8:42,C90123,Classic,1.0,8.0,Payment,Just checking on a recent payment that went through.,Low,-0.9943971633911133,0,Low
+T000215,6/1/2026 16:17,C10112,Silver,4.0,22.0,Delivery,Where is my package? The tracking hasn't updated.,Medium,-0.9994438290596008,0,Medium
+T000216,7/1/2026 0:50,C11123,Gold,7.0,35.0,Refund,This is the second time I've had to request a refund for this item.,High,-0.994652271270752,0,High
+T000217,7/1/2026 10:22,C12134,Platinum,9.0,42.0,Product,The product I received is broken and not working at all.,High,-0.9997991919517517,0,High
+T000218,7/1/2026 18:40,C13145,Classic,2.0,10.0,Order,"I accidentally ordered the wrong size, can I exchange it?",Medium,-0.9995823502540588,0,Low
+T000219,8/1/2026 4:26,C14156,Silver,3.0,18.0,Account,Could you assist me in changing my phone number?,Low,-0.9980145692825317,0,Medium
+T000220,8/1/2026 12:48,C15167,Gold,5.0,28.0,Login,I'm still unable to log in after several attempts.,High,-0.999561607837677,0,Medium
+T000221,8/1/2026 20:06,C16178,Platinum,7.0,38.0,Payment,This recurring charge needs to be stopped immediately.,High,-0.9863278865814209,0,High
+T000222,9/1/2026 5:31,C17189,Classic,0.0,3.0,Delivery,Wondering about the estimated delivery date for my order.,Low,-0.9923821091651917,0,Low
+T000223,9/1/2026 14:14,C18190,Silver,2.0,14.0,Refund,I'd like to initiate a return for my purchase.,Medium,-0.9503795504570007,0,Low
+T000224,9/1/2026 22:27,C19201,Gold,6.0,32.0,Product,The product is not as described on your website.,High,-0.997918426990509,0,High
+T000225,10/1/2026 8:29,C20212,Platinum,8.0,44.0,Order,I need to cancel my order right away before it ships.,High,-0.9994852542877197,0,High
+T000226,10/1/2026 16:04,C21223,Classic,1.0,6.0,Login,Password reset email not received. Please help.,High,-0.9968944787979126,0,Low
+T000227,11/1/2026 0:52,C22234,Silver,4.0,24.0,Payment,"Having trouble completing my payment, the page keeps refreshing.",Medium,0.9996592998504639,0,Medium
+T000228,11/1/2026 8:48,C23245,Gold,5.0,29.0,Delivery,My delivery is over a week late and I need it now.,High,-0.9873784184455872,0,Medium
+T000229,11/1/2026 18:50,C24256,Platinum,9.0,41.0,Account,I need to change my billing address urgently.,High,-0.9993160963058472,1,High
+T000230,12/1/2026 1:52,C25267,Classic,2.0,9.0,Refund,Just inquiring about the refund status for order #12345.,Low,-0.9939907789230347,0,Low
+T000231,12/1/2026 12:16,C26278,Silver,3.0,17.0,Product,Can you provide more information about the warranty on this item?,Medium,-0.9980778694152832,0,Medium
+T000232,12/1/2026 20:42,C27289,Gold,7.0,36.0,Login,"I'm frustrated, I still can't log in after trying all day.",High,-0.9970219731330872,0,High
+T000233,13/1/2026 4:31,C28290,Platinum,10.0,48.0,Delivery,"This is unacceptable, my package has been lost in transit.",High,-0.9997835755348206,0,High
+T000234,13/1/2026 13:00,C29301,Classic,1.0,7.0,Order,When will my order be processed?,Low,-0.9987356066703796,0,Low
+T000235,13/1/2026 22:31,C30312,Silver,2.0,11.0,Account,I want to update my shipping preferences.,Medium,-0.9991573095321655,0,Low
+T000236,14/1/2026 7:23,C31323,Gold,4.0,21.0,Login,My card was charged twice for the same order.,High,-0.9913910627365112,0,Medium
+T000237,14/1/2026 14:29,C32334,Platinum,6.0,39.0,Refund,I received the wrong item and need a refund immediately.,High,-0.9989155530929565,0,High
+T000238,15/1/2026 0:25,C33345,Classic,0.0,23.0,Other,I have a general question about your services.,Low,0.5384308695793152,0,Medium
+T000239,15/1/2026 8:22,C34356,Silver,3.0,19.0,Login,I'm locked out of my account and need access ASAP.,High,-0.9991887211799622,1,Medium
+T000240,15/1/2026 16:57,C35367,Gold,5.0,27.0,Delivery,Is there any way to expedite my delivery?,Medium,-0.9996347427368164,0,Medium
+T000241,16/1/2026 1:59,C36378,Platinum,8.0,43.0,Product,"The product arrived damaged, I need a replacement urgently.",High,-0.9997254014015198,1,High
+T000242,16/1/2026 10:18,C37389,Classic,1.0,23.0,Payment,"My payment was declined, can you check why?",Medium,-0.9976781010627747,0,Medium
+T000243,16/1/2026 19:04,C38390,Silver,4.0,23.0,Order,"I need to cancel my order, it was placed by mistake.",High,-0.9996718168258667,0,Medium
+T000244,17/1/2026 2:53,C39401,Gold,7.0,31.0,Account,I need to change the primary email for my account.,Medium,-0.9995319843292236,0,Medium
+T000245,17/1/2026 12:59,C40412,Platinum,9.0,40.0,Login,"Seriously, I cannot get into my account. This needs fixing now.",High,-0.9991959929466248,0,High
+T000246,17/1/2026 20:36,C41423,Classic,2.0,10.0,Delivery,When can I expect my delivery?,Low,-0.9936995506286621,0,Low
+T000247,18/1/2026 6:12,C42434,Classic,3.0,16.0,Refund,I'd like to request a refund for item number XYZ.,Medium,-0.9977189898490906,0,Medium
+T000248,18/1/2026 14:31,C43445,Gold,6.0,33.0,Login,"Still facing login issues, this is the third time this week.",High,-0.992065966129303,0,High
+T000249,18/1/2026 22:36,C44456,Platinum,8.0,46.0,Payment,"My payment information is outdated, please update it.",High,-0.9997237324714661,0,High
+T000250,19/1/2026 7:59,C45467,Classic,1.0,8.0,Product,I have a question about the specifications of product Y.,Medium,-0.9920387268066406,0,Low
+T000251,21/10/2025 16:39,C12345,Classic,1.0,5.5,Login,"I cannot login to my account, please reset my password asap",High,-0.9908329844474792,1,Low
+T000252,22/10/2025 0:26,C67890,Silver,3.0,12.2,Payment,I need assistance with a recent payment on my order,Medium,-0.9960741996765137,0,Low
+T000253,22/10/2025 10:25,C11223,Gold,7.0,28.5,Delivery,"My package has not arrived yet, it was supposed to be here yesterday",High,-0.9967465400695801,0,Medium
+T000254,22/10/2025 18:18,C44556,Platinum,9.0,35.0,Refund,I demand an immediate refund for this faulty product,High,-0.9997838139533997,0,High
+T000255,23/10/2025 1:51,C77889,Classic,0.0,1.0,Product,Just wondering about the warranty for the item I purchased,Low,-0.9562040567398071,0,Low
+T000256,23/10/2025 10:30,C99001,Silver,2.0,8.0,Order,I need to change the shipping address for my order,Medium,-0.9996187686920166,0,Low
+T000257,23/10/2025 20:59,C22334,Gold,6.0,25.0,Account,I need to update my email address on file,Medium,-0.9994068145751953,0,Medium
+T000258,24/10/2025 5:21,C55667,Platinum,10.0,40.0,Login,"My account is locked and I need access immediately, this is very frustrating",High,-0.9994970560073853,0,High
+T000259,24/10/2025 13:53,C88990,Classic,1.0,3.0,Delivery,"When can I expect my delivery, it has been a few days",Low,-0.9946016073226929,0,Low
+T000260,24/10/2025 21:11,C10112,Silver,4.0,15.0,Refund,I am requesting a refund for a damaged item,Medium,-0.9992789626121521,0,Low
+T000261,25/10/2025 5:56,C33445,Gold,8.0,30.0,Payment,"There was an incorrect charge on my credit card, please fix this urgently",High,-0.9990836381912231,1,Medium
+T000262,25/10/2025 14:34,C66778,Platinum,5.0,22.0,Product,The product I received is not what was advertised,Medium,-0.9997001886367798,0,Medium
+T000263,26/10/2025 0:14,C99101,Classic,2.0,7.0,Login,I'm locked out of my account and need help now,High,-0.9994561076164246,0,Low
+T000264,26/10/2025 9:18,C22556,Silver,3.0,10.0,Delivery,"My order tracking is not updating, can you check on it",Medium,-0.9990838766098022,0,Low
+T000265,26/10/2025 16:35,C55889,Gold,7.0,29.0,Order,"I need to cancel an order placed earlier today, it's urgent",High,-0.9974387884140015,1,Medium
+T000266,27/10/2025 1:29,C88112,Platinum,9.0,38.0,Account,I need to change my primary phone number urgently,High,-0.9993999004364014,1,High
+T000267,27/10/2025 10:18,C11334,Classic,0.0,2.0,Payment,Could you confirm the status of my last payment,Low,-0.9751033186912537,0,Low
+T000268,27/10/2025 18:12,C44667,Silver,5.0,18.0,Product,Having an issue with the setup instructions for the new gadget,Medium,-0.9993583559989929,0,Medium
+T000269,28/10/2025 3:30,C77990,Gold,6.0,26.0,Refund,"This is the second time I'm requesting a refund for this issue, please expedite",High,-0.9943140745162964,0,Medium
+T000270,28/10/2025 13:26,C10123,Platinum,8.0,32.0,Login,"I am still unable to log in after multiple attempts, I need this resolved today",High,-0.9986869692802429,0,High
+T000271,28/10/2025 20:27,C33556,Classic,1.0,4.0,Other,Just a quick question about your return policy,Low,-0.9945447444915771,0,Low
+T000272,29/10/2025 6:08,C66889,Silver,3.0,11.0,Delivery,"My delivery is late again, this is unacceptable",High,-0.9997609257698059,0,Low
+T000273,29/10/2025 14:03,C99201,Gold,7.0,27.0,Payment,I have a question about a billing discrepancy,Medium,-0.9912161827087402,0,Medium
+T000274,29/10/2025 22:08,C22667,Platinum,10.0,42.0,Product,"The item is not working at all, I need a replacement immediately",High,-0.999680757522583,0,High
+T000275,30/10/2025 8:23,C55990,Classic,2.0,6.0,Account,I want to update my billing address,Medium,-0.9989963173866272,0,Low
+T000276,30/10/2025 17:04,C88223,Silver,4.0,14.0,Order,"When will my order ship, I haven't received a confirmation yet",Low,-0.9988351464271545,0,Low
+T000277,31/10/2025 1:43,C11445,Gold,9.0,33.0,Login,"My password reset link is not working, I need access urgently",High,-0.9992693066596985,0,High
+T000278,31/10/2025 9:28,C44778,Platinum,5.0,23.0,Refund,"I am very frustrated with the delay in my refund, please process it now",High,-0.9985805749893188,0,Medium
+T000279,31/10/2025 18:40,C77001,Classic,1.0,3.5,Delivery,Can you provide an update on my shipment status,Medium,-0.9856305718421936,0,Low
+T000280,1/11/2025 2:38,C10234,Silver,3.0,9.0,Product,I need some clarification on the features of this product,Low,-0.9985418319702148,0,Low
+T000281,1/11/2025 11:03,C33667,Gold,8.0,31.0,Account,I need to change the email associated with my account,Medium,-0.9993044137954712,0,Medium
+T000282,1/11/2025 20:43,C66990,Platinum,6.0,29.5,Payment,"Incorrect amount charged, please refund the difference immediately",High,-0.9974328875541687,0,Medium
+T000283,2/11/2025 4:30,C99301,Classic,0.0,1.5,Login,"I can't get into my account, please help me quickly",High,-0.9985384941101074,0,Low
+T000284,2/11/2025 13:53,C22778,Silver,5.0,16.0,Order,I want to track the status of my recent order,Medium,-0.9752072691917419,0,Medium
+T000285,2/11/2025 22:04,C56001,Gold,7.0,28.0,Delivery,"My delivery is significantly delayed, I need this fixed",High,-0.9993808269500732,0,Medium
+T000286,3/11/2025 5:53,C88334,Platinum,9.0,39.0,Refund,I require an urgent refund for my order that was never delivered,High,-0.9997110962867737,1,High
+T000287,3/11/2025 14:38,C11556,Classic,2.0,5.0,Product,Could you tell me more about the materials used in this item,Low,-0.9108816385269165,0,Low
+T000288,4/11/2025 0:47,C44889,Silver,3.0,10.5,Login,"I'm having trouble logging in, can you assist",Medium,-0.9978658556938171,0,Low
+T000289,4/11/2025 8:46,C77112,Gold,8.0,30.5,Payment,"There is a problem with my payment, I need it resolved now",High,-0.9992859959602356,0,Medium
+T000290,4/11/2025 17:42,C10345,Platinum,10.0,41.0,Order,"My order is incorrect, I need it fixed immediately",High,-0.9995958209037781,0,High
+T000291,5/11/2025 2:53,C33778,Classic,1.0,4.5,Account,Just wanted to update my shipping address,Low,-0.9990063309669495,0,Low
+T000292,5/11/2025 9:59,C67001,Silver,4.0,13.0,Refund,I'm requesting a refund for a returned item,Medium,-0.995360791683197,0,Low
+T000293,5/11/2025 18:54,C99401,Gold,6.0,25.5,Login,"My account is frozen, I need access ASAP",High,-0.9994451403617859,1,Medium
+T000294,6/11/2025 4:17,C22889,Platinum,7.0,36.0,Delivery,"My package is lost, I need a replacement or refund immediately",High,-0.9997691512107849,0,High
+T000295,6/11/2025 11:58,C56112,Classic,1.0,3.0,Product,Having some difficulty using the product I bought,Medium,-0.9993165731430054,0,Low
+T000296,6/11/2025 20:59,C88445,Silver,3.0,9.5,Other,Can you provide more information about your loyalty program,Low,-0.5372412204742432,0,Low
+T000297,7/11/2025 5:52,C11667,Gold,9.0,32.5,Payment,"This payment is incorrect, please correct it urgently",High,-0.9938941597938538,1,High
+T000298,7/11/2025 15:21,C44990,Platinum,5.0,24.0,Account,"I need to change my password, it's been a while",Medium,-0.9991484880447388,0,Medium
+T000299,7/11/2025 23:52,C77223,Classic,2.0,7.5,Delivery,"My order is still not here, this is unacceptable",High,-0.9997027516365051,0,Low
+T000300,8/11/2025 6:53,C10456,Silver,4.0,11.5,Product,When will the out of stock item be available again,Low,-0.996613085269928,0,Low
+T000301,8/11/2025 15:29,C33889,Gold,8.0,29.0,Refund,"I need an immediate refund for this damaged product, I'm very unhappy",High,-0.9998132586479187,0,Medium
+T000302,9/11/2025 0:50,C12345,Classic,2.0,5.5,Login,"I cannot login to my account, please reset my password immediately.",High,-0.9875856637954712,0,Low
+T000303,9/11/2025 8:54,C67890,Silver,4.0,15.2,Payment,"My payment for order #ORD789012 failed, can you assist?",Medium,-0.9997369647026062,0,Low
+T000304,9/11/2025 18:03,C11223,Gold,7.0,30.1,Delivery,My package for order #ORD345678 has not arrived and it's overdue.,High,-0.998656153678894,0,Medium
+T000305,10/11/2025 3:33,C44556,Platinum,10.0,40.5,Refund,"I need a refund for product XYZ, it arrived damaged and I'm very frustrated.",High,-0.9997828602790833,0,High
+T000306,10/11/2025 12:14,C77889,Classic,1.0,2.1,Product,I have a question about the specifications of product ABC.,Low,-0.9941233992576599,0,Low
+T000307,10/11/2025 20:31,C99001,Silver,3.0,10.0,Order,Where is my order #ORD987654? The estimated delivery was yesterday.,Medium,-0.9987667798995972,0,Low
+T000308,11/11/2025 3:58,C22334,Gold,6.0,25.8,Account,I need to change the shipping address for my upcoming order.,Medium,-0.9995982050895691,0,Medium
+T000309,11/11/2025 12:49,C55667,Classic,9.0,38.9,Login,My account is locked and I urgently need access.,High,-0.9980700612068176,1,High
+T000310,11/11/2025 21:20,C88990,Classic,0.0,1.0,Other,Just a general inquiry about your return policy.,Low,-0.5380732417106628,0,Low
+T000311,12/11/2025 5:53,C10112,Silver,5.0,20.3,Payment,"I was charged twice for order #ORD112233, please fix this asap.",High,-0.9982559084892273,1,Medium
+T000312,12/11/2025 15:55,C33445,Gold,8.0,35.0,Delivery,"My delivery for order #ORD445566 is stuck in transit for over a week, this is unacceptable.",High,-0.9997957348823547,0,High
+T000313,13/11/2025 0:28,C66778,Platinum,12.0,45.0,Refund,"I demand a refund for the faulty item, it's not working at all.",High,-0.9997946619987488,0,High
+T000314,13/11/2025 9:24,C99000,Classic,3.0,7.2,Product,The product I received is not what was advertised on your website.,Medium,-0.9996809959411621,0,Low
+T000315,13/11/2025 16:41,C12121,Silver,4.0,18.5,Order,Can you please provide an update on order #ORD778899?,Medium,-0.9952534437179565,0,Medium
+T000316,14/11/2025 1:07,C44554,Gold,7.0,28.0,Login,I am trying to update my billing information but the system is not allowing me.,Medium,-0.9994587302207947,0,Medium
+T000317,14/11/2025 10:43,C77887,Platinum,11.0,23.0,Login,I am locked out of my account and need immediate assistance.,High,-0.9993689656257629,0,High
+T000318,14/11/2025 18:56,C10010,Classic,1.0,3.0,Other,I'd like to know if you offer gift wrapping services.,Low,0.9977453351020813,0,Low
+T000319,15/11/2025 4:30,C22332,Silver,6.0,22.5,Payment,My credit card was declined but I know I have sufficient funds.,Medium,0.9979434609413147,0,Medium
+T000320,15/11/2025 11:35,C55665,Gold,9.0,33.3,Delivery,"My delivery for order #ORD223344 is late again, this is the second time.",High,-0.99946528673172,0,High
+T000321,15/11/2025 20:22,C88998,Platinum,10.0,39.5,Refund,I am extremely unhappy with the product and want a full refund immediately.,High,-0.9996610879898071,0,High
+T000322,16/11/2025 4:47,C11221,Classic,2.0,6.1,Product,"I received the wrong size for product DEF, please advise on exchange.",Medium,-0.9995599389076233,0,Low
+T000323,16/11/2025 13:45,C33443,Silver,5.0,16.0,Order,"I need to cancel order #ORD556677, is it still possible?",Medium,-0.9996578693389893,0,Medium
+T000324,16/11/2025 22:15,C66776,Gold,8.0,29.1,Account,I want to update my contact phone number.,Low,-0.998908519744873,0,Medium
+T000325,17/11/2025 8:36,C99009,Platinum,10.0,41.0,Login,"My password reset link is not working, I need access urgently.",High,-0.9991803765296936,0,High
+T000326,17/11/2025 15:49,C13131,Classic,0.0,1.5,Other,Could you tell me where your company is based?,Low,-0.9986730813980103,0,Low
+T000327,18/11/2025 1:16,C45454,Silver,7.0,23.0,Payment,"I see a fraudulent charge on my account, please investigate.",High,-0.9904868006706238,0,Medium
+T000328,18/11/2025 8:42,C78787,Gold,9.0,36.5,Delivery,The delivery driver left my package in an unsafe location.,High,-0.9997686743736267,0,High
+T000329,18/11/2025 17:36,C11010,Platinum,11.0,43.0,Refund,This product is defective and I need a replacement or refund right away.,High,-0.9997873902320862,0,High
+T000330,19/11/2025 2:07,C21212,Classic,3.0,8.0,Product,"I'm having trouble assembling product GHI, can you help?",Low,-0.9995397329330444,0,Low
+T000331,19/11/2025 10:52,C51515,Silver,4.0,14.0,Order,What is the status of order #ORD889900?,Medium,-0.9982680082321167,0,Low
+T000332,19/11/2025 20:36,C81818,Gold,7.0,27.5,Account,I need to change my primary email address associated with the account.,Medium,-0.9995852112770081,0,Medium
+T000333,20/11/2025 4:12,C12112,Platinum,10.0,37.0,Login,I cannot access my account and it's crucial I get in today.,High,-0.9317548871040344,0,High
+T000334,20/11/2025 14:12,C31313,Classic,1.0,4.0,Other,I was wondering about your loyalty program.,Low,0.8029519319534302,0,Low
+T000335,20/11/2025 21:18,C41414,Silver,6.0,20.0,Payment,My payment was processed but I did not receive confirmation.,Medium,-0.9995965361595154,0,Medium
+T000336,21/11/2025 5:58,C51515,Gold,8.0,31.0,Delivery,My order #ORD112233 is still not here and it was supposed to be here days ago.,High,-0.9992741942405701,0,Medium
+T000337,21/11/2025 15:53,C61616,Classic,12.0,40.0,Refund,"The item I received is not as described, I want my money back immediately.",High,-0.9967838525772095,0,High
+T000338,21/11/2025 23:20,C71717,Classic,2.0,23.0,Product,I have a question about the warranty for product JKL.,Medium,-0.9954195022583008,0,Medium
+T000339,22/11/2025 8:41,C81818,Silver,5.0,17.0,Order,Can you confirm my order #ORD445566 has been shipped?,Medium,-0.9980539083480835,0,Medium
+T000340,22/11/2025 17:38,C91919,Classic,9.0,34.0,Account,I need to update my billing address before my next order.,Medium,-0.9995115995407104,0,High
+T000341,23/11/2025 1:18,C10101,Platinum,10.0,39.0,Login,I'm locked out of my account and I need to make a purchase urgently.,High,-0.9993771910667419,0,High
+T000342,23/11/2025 11:04,C11111,Classic,0.0,2.0,Other,Do you offer international shipping?,Low,-0.9648112058639526,0,Low
+T000343,23/11/2025 20:07,C12112,Silver,7.0,23.0,Payment,My payment for order #ORD778899 was declined unexpectedly.,High,-0.9992907047271729,0,Medium
+T000344,24/11/2025 4:25,C13131,Gold,9.0,37.5,Delivery,This is the third time my delivery for order #ORD223344 has been delayed.,High,-0.9990122318267822,0,High
+T000345,24/11/2025 12:48,C14141,Platinum,11.0,44.0,Refund,I received a damaged item and I need a refund as soon as possible.,High,-0.9994584918022156,0,High
+T000346,24/11/2025 20:22,C15151,Classic,5.0,9.0,Product,The product I ordered seems to be faulty.,Medium,-0.9997969269752502,0,Medium
+T000347,25/11/2025 4:48,C16161,Silver,4.0,15.0,Order,I'm concerned about the status of order #ORD556677.,Medium,0.545069694519043,0,Low
+T000348,25/11/2025 14:49,C17171,Gold,7.0,29.0,Account,I would like to add a secondary email to my account.,Low,-0.9978535771369934,0,Medium
+T000349,25/11/2025 22:44,C18181,Platinum,10.0,40.5,Login,I cannot log in to my account and require immediate assistance.,High,-0.9968039989471436,0,High
+T000350,26/11/2025 7:51,C19191,Classic,1.0,3.5,Other,Could you please explain your privacy policy?,Low,-0.9970556497573853,0,Low
+T000351,26/11/2025 15:20,C20202,Silver,6.0,21.0,Payment,There's an issue with the payment processing for my latest order.,Medium,-0.9990134239196777,0,Medium
+T000352,27/11/2025 0:51,C12345,Classic,2.0,5.5,Login,I cannot login to my account and need a password reset immediately.,High,-0.9957306981086731,0,Low
+T000353,27/11/2025 8:41,C67890,Silver,4.0,12.0,Payment,I'm having trouble processing a payment for my recent order.,Medium,-0.9996756315231323,0,Low
+T000354,27/11/2025 18:59,C11223,Gold,7.0,28.5,Delivery,My package has been delayed for over a week and I need an update ASAP.,High,-0.999071478843689,1,Medium
+T000355,28/11/2025 1:55,C44556,Platinum,10.0,40.0,Refund,I requested a refund for order #98765 but haven't received it yet. This is urgent.,High,-0.5750836133956909,1,High
+T000356,28/11/2025 12:08,C77889,Classic,1.0,2.0,Product,Just wondering about the specifications of the new XYZ gadget.,Low,-0.982083797454834,0,Low
+T000357,28/11/2025 19:12,C99001,Silver,3.0,8.0,Order,Can you help me track my order #12345?,Medium,-0.9977594614028931,0,Low
+T000358,29/11/2025 5:14,C22334,Gold,6.0,25.0,Account,"I need to change the shipping address on my account, please.",Medium,-0.9990862607955933,0,Medium
+T000359,29/11/2025 14:12,C55667,Platinum,9.0,38.0,Login,My account is locked and I cannot access anything. I need immediate assistance.,High,-0.9994454979896545,0,High
+T000360,29/11/2025 22:11,C88990,Classic,0.0,0.0,Other,"Hello, I have a general question about your return policy.",Low,-0.500257134437561,0,Low
+T000361,30/11/2025 6:14,C10112,Silver,5.0,15.0,Refund,My refund for order #54321 is taking longer than expected.,Medium,-0.9990034699440002,0,Medium
+T000362,30/11/2025 15:42,C31415,Gold,8.0,32.0,Login,I'm locked out of my account and this is the second time this month. Fix it now!,High,-0.9989277720451355,1,High
+T000363,30/11/2025 23:45,C71828,Platinum,12.0,45.0,Delivery,My delivery is extremely late. I need to know where it is right now.,High,-0.9996227025985718,0,High
+T000364,1/12/2025 8:35,C92653,Classic,3.0,7.0,Payment,There's an incorrect charge on my credit card statement.,Medium,-0.9994899034500122,0,Low
+T000365,1/12/2025 17:29,C58979,Silver,2.0,4.0,Product,I'd like to know if the blue widget comes in red.,Low,-0.9946625828742981,0,Low
+T000366,2/12/2025 1:44,C32384,Gold,5.0,22.0,Order,I need to cancel order #67890 if possible.,Medium,-0.9996969699859619,0,Medium
+T000367,2/12/2025 11:01,C62643,Platinum,11.0,42.0,Account,"I need to update my billing information urgently, my card has expired.",High,-0.9983772039413452,1,High
+T000368,2/12/2025 18:45,C38327,Classic,1.0,3.0,Login,Password reset failed. I cannot login. Help me please!,High,-0.999482274055481,1,Low
+T000369,3/12/2025 4:48,C95028,Silver,4.0,10.0,Login,"My order arrived damaged, I need to initiate a return.",Medium,-0.9996100068092346,0,Low
+T000370,3/12/2025 11:36,C36897,Gold,7.0,30.0,Refund,It's been 10 days and I still haven't received my refund for order #11223.,High,-0.9990236759185791,0,Medium
+T000371,3/12/2025 21:01,C10471,Platinum,9.0,39.0,Payment,"This payment is very important, please process it immediately. I'm frustrated.",High,-0.9988740086555481,1,High
+T000372,4/12/2025 5:17,C84626,Classic,2.0,6.0,Account,Could you please assist me in updating my email address?,Low,-0.9929131865501404,0,Low
+T000373,4/12/2025 13:53,C48625,Classic,3.0,9.0,Login,"I'm having trouble logging into my account, can you check?",Medium,-0.9990236759185791,0,Low
+T000374,4/12/2025 22:40,C30987,Gold,6.0,26.0,Delivery,My package was supposed to be here yesterday. I need it urgently.,High,-0.9896160364151001,1,Medium
+T000375,5/12/2025 7:55,C59492,Platinum,10.0,41.0,Product,This product is not working as advertised. I need a resolution today.,High,-0.9978121519088745,0,High
+T000376,5/12/2025 17:09,C17384,Classic,0.0,0.0,Order,Just checking on the status of order #44556.,Low,-0.9956488013267517,0,Low
+T000377,6/12/2025 0:36,C45918,Silver,5.0,13.0,Refund,My refund for item #33445 is still pending.,Medium,-0.9810398817062378,0,Medium
+T000378,6/12/2025 9:55,C85093,Gold,8.0,33.0,Login,I am locked out of my account. This is becoming a serious issue.,High,-0.9987731575965881,0,High
+T000379,6/12/2025 18:35,C34589,Platinum,11.0,43.0,Delivery,My delivery is missing. I need this found or replaced immediately.,High,-0.9997512698173523,0,High
+T000380,7/12/2025 2:09,C84688,Classic,3.0,8.5,Payment,There seems to be an issue with my last payment.,Medium,-0.9987805485725403,0,Low
+T000381,7/12/2025 11:03,C68990,Silver,2.0,5.0,Product,I'm interested in purchasing the new smart watch.,Low,0.9662466049194336,0,Low
+T000382,7/12/2025 20:32,C75319,Gold,5.0,23.0,Order,I need to change the item in my order #77889 as soon as possible.,High,-0.9994723200798035,0,Medium
+T000383,8/12/2025 5:09,C98765,Platinum,10.0,44.0,Account,My account is compromised. Please secure it urgently.,High,-0.9967569708824158,1,High
+T000384,8/12/2025 13:36,C11121,Classic,1.0,1.5,Login,I forgot my password and can't log in. I need help now.,High,-0.9990257024765015,0,Low
+T000385,8/12/2025 22:15,C31313,Silver,4.0,11.0,Refund,When can I expect my refund for order #99001?,Medium,-0.9985860586166382,0,Low
+T000386,9/12/2025 7:06,C52525,Gold,7.0,29.0,Delivery,My delivery is late again. This keeps happening.,High,0.9892011880874634,0,Medium
+T000387,9/12/2025 16:04,C87878,Platinum,9.0,37.0,Payment,I'm being double-charged for my subscription. Fix this immediately.,High,-0.9991449117660522,0,High
+T000388,10/12/2025 0:08,C24242,Classic,5.0,23.0,Product,Could you tell me more about the warranty on this item?,Low,-0.9963292479515076,0,Medium
+T000389,10/12/2025 7:44,C63636,Silver,3.0,7.5,Login,I'm having trouble with my login credentials.,Medium,-0.9997519850730896,0,Low
+T000390,10/12/2025 16:54,C90909,Gold,6.0,24.0,Order,I received the wrong item in my order #22334.,Medium,-0.999599277973175,0,Medium
+T000391,11/12/2025 1:05,C12121,Platinum,11.0,40.5,Refund,I need my refund processed urgently. This has taken too long.,High,-0.9996938705444336,1,High
+T000392,11/12/2025 10:18,C41414,Classic,0.0,0.0,Other,I'd like to provide some feedback on your website.,Low,0.9901382923126221,0,Low
+T000393,11/12/2025 19:34,C59595,Silver,5.0,14.0,Delivery,My package is showing as delivered but I haven't received it.,Medium,-0.9985271692276001,0,Medium
+T000394,12/12/2025 3:43,C78787,Gold,8.0,31.0,Login,I'm locked out of my account and need access urgently.,High,-0.9987810254096985,0,Medium
+T000395,12/12/2025 13:27,C37373,Platinum,12.0,46.0,Account,My account details are incorrect and I need them updated immediately.,High,-0.9996254444122314,0,High
+T000396,12/12/2025 21:31,C93939,Classic,1.0,2.5,Payment,There's an issue with my payment method.,Medium,-0.9986479878425598,0,Low
+T000397,13/12/2025 5:52,C14141,Silver,4.0,9.5,Product,I have a question about the care instructions for this product.,Low,-0.993425726890564,0,Low
+T000398,13/12/2025 14:13,C56565,Gold,5.0,21.0,Order,Can I add an item to my existing order #55667?,Medium,-0.9986687898635864,0,Medium
+T000399,13/12/2025 22:42,C89898,Platinum,10.0,42.5,Delivery,My delivery is missing and I need it found or resent ASAP.,High,-0.9997418522834778,1,High
+T000400,14/12/2025 7:43,C25252,Classic,5.0,6.5,Login,"I cannot access my account, please help me get in.",High,-0.99924635887146,0,Medium
+T000401,14/12/2025 16:24,C77777,Silver,2.0,3.5,Refund,Just inquiring about the status of my refund request.,Low,-0.968666672706604,0,Low
+T000402,15/12/2025 1:30,C12345,Classic,1.0,5.2,Login,"I cannot login to my account, please reset my password immediately.",High,-0.9875856637954712,0,Low
+T000403,15/12/2025 9:37,C67890,Silver,3.0,10.5,Payment,"My recent payment failed, can you check what's wrong?",Medium,-0.9997310042381287,0,Low
+T000404,15/12/2025 17:24,C11223,Gold,6.0,18.3,Delivery,"My order has not arrived yet, it's been two weeks.",High,-0.9970494508743286,0,Medium
+T000405,16/12/2025 2:15,C44556,Platinum,8.0,25.1,Refund,I need to request a refund for an item that arrived damaged. This is very frustrating.,High,-0.9996397495269775,0,Medium
+T000406,16/12/2025 12:09,C77889,Classic,0.0,2.1,Product,Just wondering about the warranty on this item I purchased.,Low,-0.9662443995475769,0,Low
+T000407,16/12/2025 20:58,C99001,Silver,2.0,7.8,Order,"I received the wrong size for my order, can you help me exchange it?",Medium,-0.9996634721755981,0,Low
+T000408,17/12/2025 4:44,C22334,Gold,5.0,15.6,Account,I need to update my shipping address on file.,Medium,-0.9996009469032288,0,Medium
+T000409,17/12/2025 13:09,C55667,Platinum,10.0,30.2,Login,I'm locked out of my account and need access ASAP. This is urgent!,High,0.6304842829704285,1,High
+T000410,17/12/2025 22:23,C88990,Classic,4.0,12.0,Payment,My credit card was charged twice for the same order.,Medium,-0.9942781925201416,0,Low
+T000411,18/12/2025 6:03,C10112,Silver,3.0,9.1,Delivery,"My delivery is delayed, when can I expect it?",Medium,-0.999275267124176,0,Low
+T000412,18/12/2025 14:50,C33445,Gold,7.0,22.5,Refund,This is the second time I've had to request a refund for a faulty product. I'm very unhappy.,High,-0.9997857213020325,0,Medium
+T000413,18/12/2025 23:37,C66778,Platinum,9.0,35.7,Product,I have a question about the features of this electronic gadget.,Medium,-0.9691376090049744,0,High
+T000414,19/12/2025 9:10,C99001,Classic,2.0,6.3,Order,Could you please confirm my order details?,Low,-0.9874569773674011,0,Low
+T000415,19/12/2025 17:51,C12121,Silver,5.0,14.0,Account,I want to change the email address associated with my account.,Medium,-0.9994134902954102,0,Medium
+T000416,20/12/2025 2:50,C45454,Gold,6.0,20.1,Login,"I cannot reset my password, the link is not working.",High,-0.9997209906578064,0,Medium
+T000417,20/12/2025 11:02,C78787,Platinum,12.0,40.5,Payment,I was overcharged for my subscription and need this resolved immediately.,High,-0.9979165196418762,1,High
+T000418,20/12/2025 19:13,C01010,Classic,3.0,8.5,Delivery,Just checking the status of my recent delivery.,Low,-0.9906771183013916,0,Low
+T000419,21/12/2025 3:07,C23232,Silver,4.0,11.2,Refund,I would like to return an item I purchased.,Medium,0.9931384921073914,0,Low
+T000420,21/12/2025 13:18,C56565,Gold,8.0,28.9,Order,My order arrived incomplete. I am missing a crucial part.,High,-0.9997727274894714,0,Medium
+T000421,21/12/2025 21:16,C89898,Platinum,15.0,45.0,Account,I need to update my billing information.,Medium,-0.9995707869529724,0,High
+T000422,22/12/2025 5:28,C11111,Classic,1.0,4.0,Product,Can you provide more information about the material of this shirt?,Low,-0.9955162405967712,0,Low
+T000423,22/12/2025 14:59,C22222,Silver,3.0,9.8,Login,Having trouble logging in this morning.,Medium,-0.9961169958114624,0,Low
+T000424,22/12/2025 22:37,C33333,Gold,7.0,25.3,Payment,My payment was declined but I know I have sufficient funds. This is urgent.,High,0.9979356527328491,1,Medium
+T000425,23/12/2025 7:40,C44444,Platinum,10.0,38.2,Delivery,My package is marked as delivered but I never received it. I need this investigated ASAP.,High,-0.9975357055664062,1,High
+T000426,23/12/2025 16:48,C55555,Classic,0.0,1.5,Order,Can you tell me when my order will ship?,Low,-0.9974679946899414,0,Low
+T000427,24/12/2025 0:37,C66666,Silver,4.0,23.0,Refund,I received a damaged product and would like a refund.,Medium,-0.9991849064826965,0,Medium
+T000428,24/12/2025 10:33,C77777,Gold,9.0,31.1,Product,I have a question about how to assemble this furniture.,Medium,-0.9885286688804626,0,Medium
+T000429,24/12/2025 17:42,C88888,Platinum,11.0,42.0,Login,I am completely locked out and cannot access any services. This is a major inconvenience.,High,-0.9997108578681946,0,High
+T000430,25/12/2025 2:19,C99999,Classic,2.0,7.1,Login,When can you assist with changing my phone number?,Low,-0.9982143640518188,0,Low
+T000431,25/12/2025 12:17,C10001,Silver,5.0,15.9,Delivery,My delivery is late and I have a special event soon.,Medium,0.9521854519844055,0,Medium
+T000432,25/12/2025 20:17,C20002,Gold,6.0,21.4,Payment,I have a query about a charge on my statement.,Medium,-0.9818281531333923,0,Medium
+T000433,26/12/2025 5:25,C30003,Platinum,5.0,46.5,Refund,This is the third time I am requesting a refund for this same issue. I am beyond frustrated.,High,-0.9972792267799377,0,High
+T000434,26/12/2025 12:30,C40004,Classic,1.0,3.2,Login,I forgot my password and cannot get into my account. Please help.,High,-0.9984910488128662,0,Low
+T000435,26/12/2025 22:01,C50005,Silver,3.0,10.1,Order,I want to cancel an item from my recent order.,Medium,-0.9997674822807312,0,Low
+T000436,27/12/2025 7:35,C60006,Gold,5.0,27.8,Delivery,My delivery is taking much longer than expected. I need to know where it is.,High,-0.9984617233276367,0,Medium
+T000437,27/12/2025 15:50,C70007,Platinum,9.0,33.0,Product,Could you explain the specifications of this product in more detail?,Medium,-0.9948123693466187,0,High
+T000438,27/12/2025 23:16,C80008,Classic,0.0,2.0,Account,Just checking the process for updating my address.,Low,-0.9930353164672852,0,Low
+T000439,28/12/2025 8:42,C90009,Silver,4.0,12.5,Payment,"My card expired, I need to update my payment details.",Medium,-0.9987120628356934,0,Low
+T000440,28/12/2025 16:39,C11011,Gold,7.0,23.7,Login,I'm trying to log in but it keeps saying my credentials are incorrect.,High,-0.9997348189353943,0,Medium
+T000441,29/12/2025 1:33,C22022,Platinum,10.0,39.0,Order,"I received the wrong item entirely, and need the correct one shipped immediately.",High,-0.9986535310745239,0,High
+T000442,29/12/2025 9:33,C33033,Classic,2.0,5.5,Refund,I'd like to initiate a return for a purchased item.,Medium,-0.9622149467468262,0,Low
+T000443,29/12/2025 18:59,C44044,Silver,5.0,14.8,Product,Wondering about the availability of this product in other colors.,Low,-0.9915209412574768,0,Medium
+T000444,30/12/2025 2:55,C55055,Gold,8.0,29.5,Delivery,My delivery was scheduled for today but hasn't arrived.,Medium,-0.9985424280166626,0,Medium
+T000445,30/12/2025 11:40,C66066,Platinum,11.0,41.5,Account,"My account has been unexpectedly locked, and I need access urgently. This is impacting my work.",High,0.9987872242927551,1,High
+T000446,30/12/2025 20:52,C77077,Classic,1.0,4.2,Payment,There's an unauthorized charge on my account.,High,-0.9986340403556824,0,Low
+T000447,31/12/2025 5:17,C88088,Silver,3.0,8.9,Login,Can you help me with a password reset?,Medium,-0.9964718818664551,0,Low
+T000448,31/12/2025 14:22,C99099,Gold,7.0,26.1,Refund,The product I received is not what was described on the website.,Medium,-0.999576985836029,0,Medium
+T000449,31/12/2025 22:21,C10101,Platinum,12.0,44.0,Delivery,This is the second time my delivery has been significantly delayed. I am losing patience.,High,-0.9997178912162781,0,High
+T000450,1/1/2026 7:33,C20202,Classic,0.0,1.8,Order,When will my order be processed?,Low,-0.9987356066703796,0,Low
+T000451,1/1/2026 15:30,C30303,Silver,4.0,11.5,Account,I need to update my contact information.,Medium,-0.999453604221344,0,Low
+T000452,2/1/2026 0:27,C40404,Gold,9.0,30.0,Payment,I was charged the wrong amount for my last order. This needs to be fixed now.,High,-0.9996925592422485,0,Medium
+T000453,2/1/2026 9:37,C12345,Classic,2.0,12.5,Login,"I cannot login to my account, I need a password reset asap.",High,-0.996807336807251,1,Low
+T000454,2/1/2026 18:41,C67890,Silver,4.0,20.1,Payment,"My recent payment failed, can you check what's wrong?",Medium,-0.9997310042381287,0,Medium
+T000455,3/1/2026 3:21,C11223,Gold,6.0,30.5,Delivery,"My order is late and I haven't received any tracking updates, this is urgent.",High,-0.9193928837776184,1,Medium
+T000456,3/1/2026 11:13,C44556,Platinum,8.0,38.0,Refund,"I need a refund for the item I received, it's not what I ordered.",High,-0.99977046251297,0,High
+T000457,3/1/2026 19:36,C77889,Classic,1.0,5.2,Product,Just wondering about the specs of the new gadget.,Low,-0.9830976128578186,0,Low
+T000458,4/1/2026 4:44,C99001,Silver,3.0,18.0,Order,"I have an issue with my recent order, can you assist?",Medium,-0.9956871867179871,0,Medium
+T000459,4/1/2026 13:09,C22334,Gold,7.0,28.9,Account,I need to change my registered email address immediately.,High,-0.9993994235992432,0,Medium
+T000460,4/1/2026 22:30,C55667,Platinum,9.0,42.0,Other,I have a general inquiry about your services.,Medium,0.922371506690979,0,High
+T000461,5/1/2026 7:32,C88990,Classic,0.0,0.0,Login,My account is locked and I can't get in. This is frustrating.,High,-0.9985373020172119,0,Low
+T000462,5/1/2026 15:45,C33445,Silver,5.0,25.5,Payment,"This is the second time my payment has been declined, I need this fixed today.",High,-0.9954665899276733,0,Medium
+T000463,6/1/2026 0:26,C66778,Gold,9.0,35.0,Delivery,"My package hasn't moved in a week, I need this resolved quickly.",High,-0.9967350363731384,0,High
+T000464,6/1/2026 8:58,C99000,Platinum,10.0,45.0,Refund,I am requesting an immediate refund for a faulty product.,High,-0.9997164607048035,0,High
+T000465,6/1/2026 17:10,C12121,Classic,3.0,15.0,Product,"The item I received is damaged, could you please help?",Medium,-0.999637246131897,0,Low
+T000466,7/1/2026 2:37,C34343,Silver,6.0,22.0,Order,"I made a mistake on my order, can this be corrected?",Medium,-0.9997510313987732,0,Medium
+T000467,7/1/2026 11:04,C56565,Gold,8.0,32.0,Account,I need to update my shipping address urgently for an upcoming order.,High,-0.9995061159133911,1,High
+T000468,7/1/2026 18:47,C78787,Classic,7.0,37.5,Login,"I'm locked out of my account again, this is unacceptable.",High,-0.9997193217277527,0,High
+T000469,8/1/2026 3:24,C90909,Classic,1.0,7.0,Payment,Just a quick question about a past transaction.,Low,-0.9958981871604919,0,Low
+T000470,8/1/2026 13:19,C10101,Silver,4.0,19.0,Delivery,"My delivery is taking longer than expected, any updates?",Medium,-0.9987745881080627,0,Medium
+T000471,8/1/2026 21:16,C21212,Gold,10.0,40.0,Refund,"I want a full refund for my order, it arrived broken.",High,-0.9988808035850525,0,High
+T000472,9/1/2026 5:39,C32323,Platinum,6.0,31.0,Product,"I have an issue with the product I purchased, can you assist?",Medium,-0.9993796348571777,0,Medium
+T000473,9/1/2026 14:32,C43434,Classic,2.0,10.0,Order,"My order seems to be incorrect, please review.",Medium,-0.9991233944892883,0,Low
+T000474,9/1/2026 23:36,C54545,Silver,7.0,26.0,Account,I need to change my phone number urgently.,High,-0.9991674423217773,1,Medium
+T000475,10/1/2026 7:49,C65656,Gold,5.0,29.0,Login,"I cannot access my account, this needs immediate attention.",High,-0.9996770620346069,1,Medium
+T000476,10/1/2026 15:29,C76767,Platinum,8.0,39.0,Payment,"My payment method is not being accepted, this is urgent.",High,-0.9208437204360962,1,High
+T000477,11/1/2026 0:46,C87878,Classic,0.0,0.0,Delivery,When can I expect my order to arrive?,Medium,-0.9959237575531006,0,Low
+T000478,11/1/2026 9:11,C98989,Silver,3.0,17.5,Refund,I would like to request a refund for an item.,Medium,-0.9953364729881287,0,Medium
+T000479,11/1/2026 17:30,C10000,Gold,9.0,36.0,Order,"This is the third time there's been an issue with my order, I'm frustrated.",High,-0.9997045397758484,0,High
+T000480,12/1/2026 2:19,C20000,Platinum,7.0,33.0,Product,"The product is not working as advertised, I need this fixed asap.",High,-0.999284565448761,1,High
+T000481,12/1/2026 11:44,C30000,Classic,4.0,14.0,Account,Can you help me update my billing information?,Medium,-0.998100221157074,0,Low
+T000482,12/1/2026 21:07,C40000,Silver,5.0,21.0,Login,"I am locked out of my account, please help me regain access.",High,-0.9993460774421692,0,Medium
+T000483,13/1/2026 5:04,C50000,Gold,10.0,41.0,Delivery,"My delivery is extremely late, I need this information immediately.",High,-0.9980870485305786,0,High
+T000484,13/1/2026 12:54,C60000,Platinum,8.0,37.0,Refund,"I demand a refund for this faulty product, it's not acceptable.",High,-0.9998065829277039,0,High
+T000485,13/1/2026 21:21,C70000,Classic,1.0,6.5,Order,Just checking on the status of my order.,Low,-0.9403142929077148,0,Low
+T000486,14/1/2026 5:47,C80000,Silver,6.0,24.0,Payment,"My payment keeps failing, I need to complete my purchase now.",High,-0.9994922876358032,0,Medium
+T000487,14/1/2026 15:29,C90000,Gold,7.0,30.0,Account,"I need to change my password, can you guide me?",Medium,-0.9993342757225037,0,Medium
+T000488,14/1/2026 23:28,C11111,Platinum,9.0,43.0,Login,"This is unacceptable, I can't login to my account for the fourth time.",High,-0.9980900883674622,0,High
+T000489,15/1/2026 8:31,C22222,Classic,3.0,13.0,Product,There's a slight defect on the product I received.,Medium,-0.9992021918296814,0,Low
+T000490,15/1/2026 17:03,C33333,Silver,4.0,18.5,Delivery,"My package is supposed to be here today, and it's not. I need this resolved.",High,-0.9986990690231323,0,Medium
+T000491,16/1/2026 2:27,C44444,Gold,8.0,34.0,Refund,I am very unhappy with my purchase and require an immediate refund.,High,-0.9996445178985596,0,High
+T000492,16/1/2026 11:05,C55555,Classic,10.0,46.0,Order,This recurring order issue needs to be fixed now. Last time took days to resolve.,High,-0.9988565444946289,0,High
+T000493,16/1/2026 19:18,C66666,Classic,0.0,0.0,Account,Could you assist with changing my registered address?,Low,-0.9979713559150696,0,Low
+T000494,17/1/2026 4:45,C77777,Silver,5.0,23.0,Login,I forgot my password and cannot get into my account. Urgent help needed.,High,-0.9990384578704834,0,Medium
+T000495,17/1/2026 12:47,C88888,Gold,9.0,38.5,Payment,"My payment is not processing, I need to pay immediately.",High,-0.9986400008201599,0,High
+T000496,17/1/2026 20:44,C99999,Platinum,7.0,39.5,Delivery,"My delivery has been delayed significantly, I need an update ASAP.",High,-0.999165415763855,1,High
+T000497,18/1/2026 5:55,C10001,Classic,2.0,11.0,Refund,I wish to initiate a refund for an item.,Medium,-0.9974990487098694,0,Low
+T000498,18/1/2026 15:02,C20002,Silver,6.0,25.0,Product,The product I received is not working correctly. Please fix this.,High,-0.9998072981834412,0,Medium
+T000499,18/1/2026 23:04,C30003,Gold,10.0,42.5,Account,I need to change my primary contact email urgently.,High,-0.9992177486419678,1,High
+T000500,19/1/2026 8:24,C40004,Platinum,8.0,40.0,Order,Can you please check the status of my recent order?,Medium,-0.9903719425201416,0,High
+T000501,21/10/2025 16:21,C12345,Classic,1.0,5.5,Login,I cannot login to my account and need a password reset immediately.,High,-0.9957306981086731,0,Low
+T000502,22/10/2025 1:56,C67890,Silver,3.0,12.0,Payment,"My recent payment did not go through, can you assist?",Medium,-0.9983021020889282,0,Low
+T000503,22/10/2025 9:50,C11223,Gold,7.0,28.0,Delivery,"My order has been delayed for over a week, I need it urgently.",High,-0.9921526312828064,1,Medium
+T000504,22/10/2025 18:08,C44556,Platinum,10.0,40.5,Refund,I want a refund for a product that arrived damaged. This is unacceptable!,High,-0.9997898936271667,1,High
+T000505,23/10/2025 3:51,C77889,Classic,0.0,2.1,Product,Just wondering about the warranty for product XYZ.,Low,-0.9831671118736267,0,Low
+T000506,23/10/2025 11:15,C99001,Silver,4.0,23.0,Order,"I received the wrong item in my order, please help.",Medium,-0.9993671774864197,0,Medium
+T000507,23/10/2025 20:55,C13579,Gold,6.0,22.5,Account,I need to update my shipping address for upcoming orders.,Medium,-0.9995322227478027,0,Medium
+T000508,24/10/2025 4:54,C24680,Platinum,9.0,35.0,Login,"My account is locked again, and I need access ASAP.",High,-0.9986979961395264,1,High
+T000509,24/10/2025 14:22,C10112,Classic,2.0,8.0,Payment,"Having trouble processing a payment, please advise.",Medium,-0.9950562715530396,0,Low
+T000510,24/10/2025 22:21,C13141,Silver,5.0,20.0,Delivery,My package is marked as delivered but I haven't received it.,Medium,-0.998421311378479,0,Medium
+T000511,25/10/2025 7:19,C15161,Gold,8.0,30.0,Refund,I need to return an item that doesn't fit. This is the third time.,High,-0.9996274709701538,0,Medium
+T000512,25/10/2025 15:44,C17181,Platinum,12.0,45.0,Product,"The item I received is not as described, this is frustrating!",High,-0.9885135293006897,1,High
+T000513,25/10/2025 23:30,C19202,Classic,3.0,10.0,Order,Could you please provide an update on my order status?,Medium,-0.9966806769371033,0,Low
+T000514,26/10/2025 8:54,C21222,Silver,6.0,25.0,Account,I would like to change the email associated with my account.,Low,-0.9981034994125366,0,Medium
+T000515,26/10/2025 16:48,C23242,Gold,9.0,32.0,Login,I am still unable to login after multiple attempts. Need immediate assistance.,High,-0.9989445805549622,0,High
+T000516,27/10/2025 1:17,C25262,Platinum,11.0,42.0,Payment,"My card was charged twice for the same order, please fix this urgently.",High,-0.9964399933815002,1,High
+T000517,27/10/2025 11:05,C27282,Classic,1.0,6.0,Delivery,Just checking on the estimated delivery date for my purchase.,Low,-0.9816644191741943,0,Low
+T000518,27/10/2025 20:04,C29303,Silver,7.0,23.0,Refund,I requested a refund last week and haven't heard back.,Medium,-0.9786673188209534,0,Medium
+T000519,28/10/2025 4:49,C31323,Gold,5.0,21.0,Product,The color of the product is different from what was advertised online.,Medium,0.8776302933692932,0,Medium
+T000520,28/10/2025 12:25,C33343,Platinum,8.0,38.0,Order,"My order was cancelled without my consent, I need this resolved now.",High,-0.9993675351142883,0,High
+T000521,28/10/2025 20:09,C35363,Classic,4.0,15.0,Login,I'm locked out of my account and it's been days. Help!,High,-0.9985069632530212,1,Low
+T000522,29/10/2025 6:05,C37383,Silver,2.0,9.0,Payment,Just wanted to confirm my payment was successful.,Low,0.9652628302574158,0,Low
+T000523,29/10/2025 14:07,C39404,Gold,10.0,36.0,Delivery,The delivery driver left my package in an unsafe location. Very concerned.,High,-0.9980412721633911,0,High
+T000524,29/10/2025 22:30,C41424,Platinum,7.0,31.0,Refund,"I want to return this item, can you provide instructions?",Medium,-0.9964932799339294,0,Medium
+T000525,30/10/2025 7:24,C43444,Classic,0.0,3.0,Account,Could you help me update my phone number on file?,Low,-0.9989767074584961,0,Low
+T000526,30/10/2025 15:50,C45464,Silver,8.0,33.0,Product,"The product is not working as expected, can you troubleshoot?",Medium,-0.9997437596321106,0,High
+T000527,31/10/2025 0:05,C47484,Gold,6.0,26.0,Order,This is the second time my order has been incorrect. I need this fixed!,High,-0.9985325336456299,1,Medium
+T000528,31/10/2025 10:13,C49505,Platinum,9.0,39.0,Login,I have forgotten my password and cannot access my account. Need access ASAP.,High,-0.9995918869972229,1,High
+T000529,31/10/2025 19:13,C51525,Classic,2.0,7.5,Refund,I am requesting a refund for an item I no longer need.,Medium,-0.5329365730285645,0,Low
+T000530,1/11/2025 3:36,C53545,Silver,5.0,23.0,Delivery,Just checking the tracking information for my recent delivery.,Low,-0.9927964806556702,0,Medium
+T000531,1/11/2025 12:17,C55565,Gold,7.0,30.5,Payment,"My payment failed multiple times, I need this resolved today.",High,-0.999302864074707,0,Medium
+T000532,1/11/2025 19:51,C57585,Platinum,10.0,41.0,Account,I need to change my billing address on file.,Medium,-0.9996280670166016,0,High
+T000533,2/11/2025 4:42,C59606,Classic,3.0,11.0,Product,"The product arrived with a small scratch, is this covered by warranty?",Medium,-0.9989150762557983,0,Low
+T000534,2/11/2025 14:02,C61626,Silver,4.0,17.0,Order,When can I expect my order to be shipped?,Low,-0.9980977177619934,0,Medium
+T000535,2/11/2025 21:42,C63646,Gold,8.0,34.0,Login,"My account is disabled for suspicious activity, I need access immediately.",High,-0.9990643858909607,0,High
+T000536,3/11/2025 6:13,C65666,Platinum,11.0,44.0,Delivery,My delivery is late and I have a deadline. This is not acceptable.,High,-0.999777615070343,0,High
+T000537,3/11/2025 16:03,C67686,Classic,1.0,4.0,Payment,Just wanted to verify that my payment was received.,Low,-0.9785675406455994,0,Low
+T000538,3/11/2025 23:48,C69707,Silver,6.0,27.0,Refund,I am extremely dissatisfied with this product and want a full refund now.,High,-0.9995896220207214,0,Medium
+T000539,4/11/2025 8:10,C71727,Gold,9.0,37.0,Login,I need to update my email address for notifications.,Medium,-0.999390721321106,0,High
+T000540,4/11/2025 18:04,C73747,Platinum,12.0,46.0,Product,This product is defective and I need a replacement urgently.,High,-0.9997469782829285,0,High
+T000541,5/11/2025 1:18,C75767,Classic,0.0,2.5,Order,Could you please send me the order confirmation again?,Low,-0.9986336827278137,0,Low
+T000542,5/11/2025 9:39,C77787,Silver,5.0,20.5,Login,"I am having trouble logging in, could you help me?",Medium,-0.9992701411247253,0,Medium
+T000543,5/11/2025 20:00,C79808,Gold,7.0,31.5,Delivery,My package appears to be lost in transit. What are the next steps?,Medium,-0.9996973276138306,0,Medium
+T000544,6/11/2025 4:49,C81828,Platinum,8.0,38.5,Payment,"My card was declined unexpectedly, please investigate this urgently.",High,-0.7241882085800171,1,High
+T000545,6/11/2025 12:53,C83848,Classic,3.0,9.5,Refund,I would like to inquire about the refund policy.,Low,0.7129647135734558,0,Low
+T000546,6/11/2025 20:47,C85868,Silver,7.0,28.5,Account,I need to change my primary contact number.,Medium,-0.99950110912323,0,Medium
+T000547,7/11/2025 4:52,C87888,Gold,10.0,39.5,Order,This is the third time I've received the wrong size. I am very frustrated.,High,-0.9997287392616272,0,High
+T000548,7/11/2025 14:38,C89909,Platinum,11.0,43.0,Login,I'm locked out of my account and this is a critical issue. Need immediate access.,High,-0.9991621971130371,1,High
+T000549,7/11/2025 22:38,C91929,Classic,2.0,6.5,Product,"The item I received is slightly damaged, can this be resolved?",Medium,-0.9996742010116577,0,Low
+T000550,8/11/2025 8:33,C93949,Silver,4.0,16.0,Delivery,When can I expect my order to arrive?,Low,-0.9959237575531006,0,Medium
+T000551,8/11/2025 15:58,C95969,Gold,6.0,27.5,Payment,"My payment was not processed correctly, this needs to be fixed today.",High,-0.9996938705444336,0,Medium
+T000552,9/11/2025 0:44,C12345,Classic,2.0,23.0,Login,"I cannot login to my account, my password reset link is not working. Need help asap.",High,-0.9995827078819275,1,Medium
+T000553,9/11/2025 10:25,C67890,Silver,4.0,18.0,Payment,"My recent order payment failed, but the money was deducted from my account.",Medium,-0.9988399147987366,0,Medium
+T000554,9/11/2025 17:43,C11223,Gold,7.0,30.0,Delivery,"My package has not arrived, it was supposed to be delivered three days ago. This is very frustrating.",High,-0.9995293617248535,0,Medium
+T000555,10/11/2025 2:12,C33445,Platinum,6.0,40.0,Refund,I need an immediate refund for order #XYZ789. The product arrived damaged and is unusable.,High,-0.9996963739395142,0,High
+T000556,10/11/2025 11:21,C55667,Classic,1.0,5.0,Product,Just wondering about the estimated shipping time for my recent product purchase.,Low,-0.9956653714179993,0,Low
+T000557,10/11/2025 20:56,C77889,Silver,3.0,15.0,Order,I received the wrong item in my order. Can you help me with an exchange?,Medium,-0.9994118213653564,0,Low
+T000558,11/11/2025 3:51,C99001,Gold,9.0,35.0,Account,I need to update my shipping address urgently. My current address is incorrect for my next delivery.,High,-0.9997580647468567,0,High
+T000559,11/11/2025 12:54,C22334,Platinum,5.0,25.0,Login,I'm locked out of my account after too many failed login attempts. Can you unlock it for me?,Medium,-0.9997072815895081,0,Medium
+T000560,11/11/2025 22:24,C44556,Classic,0.0,0.0,Delivery,"My order is showing as delivered, but I have not received it. Could you please check the status?",Low,-0.9967074394226074,0,Low
+T000561,12/11/2025 6:53,C66778,Silver,5.0,22.0,Refund,I would like to request a refund for an item I no longer need. What is the process?,Medium,-0.9917534589767456,0,Medium
+T000562,12/11/2025 15:38,C88990,Gold,8.0,38.0,Payment,My credit card was charged twice for the same order. I need this resolved immediately.,High,-0.9950844645500183,0,High
+T000563,13/11/2025 0:01,C10112,Platinum,7.0,45.0,Product,The product I received is not as described on your website. It's missing a key feature.,Medium,-0.9997888207435608,0,High
+T000564,13/11/2025 8:59,C13145,Classic,3.0,10.0,Order,I want to cancel an order I just placed. Is it too late to do so?,Medium,-0.9997655749320984,0,Low
+T000565,13/11/2025 16:36,C15167,Silver,4.0,20.0,Login,I forgot my password and the reset link isn't arriving. Can you assist?,Low,-0.9994543194770813,0,Medium
+T000566,14/11/2025 1:18,C17189,Gold,10.0,42.0,Delivery,This is the third time my delivery has been delayed. I need this package urgently. I am very unhappy with the service.,High,-0.9994204044342041,0,High
+T000567,14/11/2025 11:22,C19201,Platinum,6.0,30.0,Account,I need to change the email address associated with my account. Please guide me through the steps.,Medium,0.945755660533905,0,Medium
+T000568,14/11/2025 18:18,C21223,Classic,1.0,8.0,Refund,I have a question about your return policy for damaged goods.,Low,-0.998053789138794,0,Low
+T000569,15/11/2025 3:35,C23245,Silver,5.0,25.0,Product,The item I ordered arrived with a small defect. Is it possible to get a partial refund?,Medium,-0.9991293549537659,0,Medium
+T000570,15/11/2025 11:51,C25267,Gold,7.0,33.0,Payment,My payment is pending for over 24 hours. What is the reason for the delay?,Medium,-0.9957928657531738,0,High
+T000571,15/11/2025 20:44,C27289,Platinum,8.0,48.0,Order,"I received a notification that my order has shipped, but the tracking information is not updating. This is unacceptable.",High,-0.9996510744094849,0,High
+T000572,16/11/2025 5:55,C29301,Classic,2.0,23.0,Login,I'm having trouble logging in with my current credentials. Can you help?,Medium,-0.9991416931152344,0,Medium
+T000573,16/11/2025 13:57,C31323,Silver,4.0,18.0,Login,"My delivery is marked as completed, but it's not on my doorstep. Could you investigate?",Medium,-0.9869948029518127,0,Medium
+T000574,16/11/2025 22:08,C33345,Gold,9.0,39.0,Refund,I need an urgent refund. The item I received is completely wrong and not what I ordered. This is frustrating.,High,-0.9997751116752625,1,High
+T000575,17/11/2025 8:10,C35367,Platinum,5.0,28.0,Product,I have a question about the warranty on the product I purchased.,Low,-0.9954822063446045,0,Medium
+T000576,17/11/2025 15:44,C37389,Classic,0.0,0.0,Account,Could you please confirm my account details?,Low,-0.9835860729217529,0,Low
+T000577,18/11/2025 0:54,C39401,Silver,3.0,16.0,Payment,"My payment was declined, but I believe my card details are correct. Can you check why?",Medium,0.9917259216308594,0,Medium
+T000578,18/11/2025 9:39,C41423,Gold,6.0,31.0,Login,I am locked out of my account and need immediate access. I have important orders to place.,High,-0.998945415019989,0,Medium
+T000579,18/11/2025 18:23,C43445,Platinum,7.0,40.0,Delivery,My package is severely delayed and I need it for an event this weekend. Please expedite the delivery.,High,-0.9875596165657043,0,High
+T000580,19/11/2025 2:26,C45467,Classic,2.0,9.0,Order,I want to know the estimated delivery date for my order.,Low,-0.9895405173301697,0,Low
+T000581,19/11/2025 12:00,C47489,Silver,5.0,22.0,Refund,I returned an item last week. When can I expect my refund to be processed?,Medium,-0.9973681569099426,0,Medium
+T000582,19/11/2025 19:29,C49501,Gold,10.0,41.0,Product,The product is not working as expected. I have tried all troubleshooting steps and need this fixed today.,High,-0.9996747970581055,0,High
+T000583,20/11/2025 4:10,C51523,Platinum,8.0,46.0,Account,I need to update my billing address for future purchases.,Medium,-0.9994333386421204,0,High
+T000584,20/11/2025 14:17,C53545,Classic,1.0,7.0,Login,I'm having a minor issue logging into my account. Can you help when you have a moment?,Low,-0.9964522123336792,0,Low
+T000585,20/11/2025 21:20,C55567,Silver,4.0,20.0,Delivery,My delivery is late. Can you provide an updated estimated arrival time?,Medium,-0.9995676875114441,0,Medium
+T000586,21/11/2025 7:15,C57589,Gold,7.0,35.0,Payment,"My payment failed multiple times, and I'm worried about losing the items in my cart. Need this resolved quickly.",High,-0.9997313618659973,0,High
+T000587,21/11/2025 15:27,C59601,Platinum,9.0,44.0,Refund,I received the wrong size for the item I ordered. How do I initiate an exchange or return?,Medium,-0.999713122844696,0,High
+T000588,21/11/2025 23:48,C61623,Classic,3.0,14.0,Product,Just a quick question about the dimensions of the product.,Low,-0.9890512824058533,0,Low
+T000589,22/11/2025 8:54,C63645,Silver,5.0,24.0,Order,I need to change the delivery address for my order immediately. It was entered incorrectly.,High,-0.9997339844703674,0,Medium
+T000590,22/11/2025 18:15,C65667,Gold,8.0,37.0,Login,I forgot my password and my account is now locked. Please assist.,Medium,-0.9782877564430237,0,High
+T000591,23/11/2025 1:14,C67689,Platinum,6.0,32.0,Delivery,I want to track my recent order. Can you provide the tracking number?,Low,-0.9985931515693665,0,High
+T000592,23/11/2025 11:13,C69701,Classic,1.0,6.0,Refund,I want to return an item. What is the process for returning a product?,Medium,-0.9944599866867065,0,Low
+T000593,23/11/2025 19:48,C71723,Silver,4.0,19.0,Product,The color of the item I received is different from what was shown online. Can this be resolved?,Medium,-0.9941273927688599,0,Medium
+T000594,24/11/2025 3:16,C73745,Gold,10.0,43.0,Account,I need to change my registered phone number urgently as I am unable to receive verification codes.,High,-0.9993602633476257,0,High
+T000595,24/11/2025 12:49,C75767,Platinum,7.0,47.0,Payment,My payment was unexpectedly declined. I need to complete this purchase immediately.,High,-0.9949840307235718,0,High
+T000596,24/11/2025 20:23,C77789,Classic,2.0,11.0,Order,I made a mistake on my order and need to modify it. Is this possible?,Medium,-0.9996697902679443,0,Low
+T000597,25/11/2025 5:23,C79801,Silver,5.0,26.0,Login,I cannot access my account. It says it's locked and I need to get in right away.,High,-0.9993195533752441,0,Medium
+T000598,25/11/2025 14:52,C81823,Gold,5.0,38.0,Delivery,My package is taking longer than expected. Can you provide an update?,Medium,-0.9987008571624756,0,High
+T000599,26/11/2025 0:03,C83845,Platinum,6.0,34.0,Refund,I am extremely unhappy with the product. I need a refund processed as soon as possible. It's not working.,High,-0.9998176693916321,0,High
+T000600,26/11/2025 6:48,C85867,Classic,0.0,0.0,Payment,I have a question about a recent charge on my statement.,Low,-0.9738985300064087,0,Low
+T000601,26/11/2025 17:10,C87889,Silver,3.0,17.0,Account,I need to update my contact information on file.,Medium,-0.9994538426399231,0,Medium
+T000602,27/11/2025 0:33,C89901,Gold,7.0,36.0,Order,My order is incorrect. I need the correct items shipped immediately. This is the second time this has happened.,High,-0.9993010759353638,0,High
+T000603,27/11/2025 9:39,C12345,Classic,2.0,12.5,Login,I cannot login to my account. It says my password is incorrect.,High,-0.9985445737838745,0,Low
+T000604,27/11/2025 17:45,C67890,Silver,4.0,18.0,Payment,My recent order payment failed. Can you check the transaction?,Medium,-0.9995943903923035,0,Medium
+T000605,28/11/2025 2:31,C13579,Classic,7.0,30.5,Delivery,My package has not arrived. It was supposed to be here two days ago.,High,-0.999426007270813,0,Medium
+T000606,28/11/2025 11:15,C24680,Platinum,10.0,40.0,Refund,I need an immediate refund for item XYZ. It arrived damaged.,High,-0.9997773766517639,0,High
+T000607,28/11/2025 20:12,C98765,Classic,1.0,6.0,Login,I have a question about the specifications of product ABC.,Low,-0.9941233992576599,0,Low
+T000608,29/11/2025 4:14,C11223,Silver,3.0,15.0,Order,Where is my order number 45678? It's taking too long.,Medium,-0.999721109867096,0,Low
+T000609,29/11/2025 14:17,C33445,Gold,8.0,35.0,Account,I need to change my shipping address urgently. My order is still being processed.,High,-0.9984027743339539,0,High
+T000610,29/11/2025 22:40,C55667,Platinum,12.0,45.0,Login,My account is locked and I need access ASAP. This is unacceptable.,High,-0.9997567534446716,1,High
+T000611,30/11/2025 6:22,C77889,Classic,0.0,1.0,Payment,Just wondering about the status of my payment for the last order.,Low,-0.9966450333595276,0,Low
+T000612,30/11/2025 15:46,C99001,Silver,5.0,22.0,Delivery,My delivery is late. Can you provide an update?,Medium,-0.9995173215866089,0,Medium
+T000613,30/11/2025 23:52,C10112,Gold,6.0,28.0,Refund,I requested a refund last week and haven't heard back.,Medium,-0.9786673188209534,0,Medium
+T000614,1/12/2025 8:43,C12131,Platinum,9.0,38.0,Product,The product I received is not working. I need a replacement immediately.,High,-0.9997678399085999,0,High
+T000615,1/12/2025 17:14,C14151,Classic,3.0,10.0,Login,I am repeatedly getting locked out of my account after password reset.,High,-0.9995847344398499,0,Low
+T000616,2/12/2025 2:05,C16171,Silver,2.0,9.0,Account,Could you please assist me with updating my phone number?,Low,-0.9920334219932556,0,Low
+T000617,2/12/2025 10:05,C18192,Gold,10.0,39.0,Order,This is the second time my order has been delayed. I am very frustrated.,High,-0.9996764659881592,0,High
+T000618,2/12/2025 19:34,C20212,Platinum,11.0,42.0,Payment,My credit card was charged twice for the same order. Please fix this immediately.,High,-0.9970628619194031,0,High
+T000619,3/12/2025 3:27,C22232,Classic,1.0,23.0,Delivery,Just checking on the estimated delivery date for my recent purchase.,Low,-0.9875369668006897,0,Medium
+T000620,3/12/2025 12:58,C24252,Silver,6.0,25.0,Login,I'm having trouble logging in. It keeps saying invalid credentials.,Medium,-0.9997304081916809,0,Medium
+T000621,3/12/2025 21:38,C26272,Gold,7.0,32.0,Refund,I need to return an item and get a refund. It's not what I expected.,High,-0.9997785687446594,0,High
+T000622,4/12/2025 6:32,C28292,Platinum,13.0,48.0,Order,My order has not shipped yet. I need this resolved today!,High,-0.9977565407752991,1,High
+T000623,4/12/2025 15:02,C30313,Classic,4.0,15.0,Product,The item I received is slightly different from the description online.,Medium,0.9302441477775574,0,Low
+T000624,4/12/2025 23:49,C32333,Silver,3.0,18.0,Account,I need to change my email address associated with my account.,Medium,-0.9994896650314331,0,Medium
+T000625,5/12/2025 7:38,C34353,Gold,9.0,36.0,Delivery,My delivery is extremely late. This is the third time this has happened.,High,-0.9991474151611328,0,High
+T000626,5/12/2025 15:49,C36373,Platinum,10.0,41.0,Login,"I am unable to reset my password, and my account seems to be compromised.",High,-0.9996873140335083,0,High
+T000627,6/12/2025 1:37,C38393,Classic,2.0,7.0,Payment,I have a question about a charge on my statement.,Low,-0.9767405390739441,0,Low
+T000628,6/12/2025 10:11,C40414,Silver,5.0,20.0,Refund,When can I expect my refund for order 98765?,Medium,-0.9978693723678589,0,Medium
+T000629,6/12/2025 18:18,C42434,Gold,8.0,33.0,Product,The product is not working as advertised. I need immediate assistance.,High,-0.9991711378097534,0,High
+T000630,7/12/2025 2:27,C44454,Platinum,12.0,44.0,Delivery,"My delivery has been marked as delivered, but I never received it.",High,-0.9994896650314331,0,High
+T000631,7/12/2025 10:35,C46474,Classic,3.0,11.0,Order,Can you tell me the status of my order number 12345?,Medium,-0.9966368675231934,0,Low
+T000632,7/12/2025 20:08,C48494,Silver,4.0,16.0,Login,I'm locked out of my account and need access urgently.,High,-0.9987810254096985,0,Medium
+T000633,8/12/2025 5:15,C50515,Gold,7.0,29.0,Account,I need to update my billing information for my subscription.,Medium,-0.9995061159133911,0,Medium
+T000634,8/12/2025 14:16,C52535,Platinum,11.0,40.0,Payment,There's an unauthorized charge on my account. Please investigate immediately.,High,-0.8941006660461426,0,High
+T000635,8/12/2025 22:43,C54555,Classic,0.0,2.0,Other,I'm looking for information about your return policy.,Low,-0.9984678626060486,0,Low
+T000636,9/12/2025 7:17,C56575,Silver,2.0,8.0,Delivery,My package was damaged during transit. What are my options?,Medium,-0.9994397759437561,0,Low
+T000637,9/12/2025 16:01,C58595,Classic,6.0,26.0,Login,I cannot log in and this is preventing me from completing a crucial purchase.,High,-0.9997401833534241,0,Medium
+T000638,10/12/2025 1:00,C60616,Platinum,10.0,37.0,Refund,I am requesting a refund for a duplicate order. This needs to be fixed ASAP.,High,-0.9996819496154785,1,High
+T000639,10/12/2025 8:36,C62636,Classic,1.0,5.0,Product,I'd like to ask a question about the size of a particular item.,Low,0.9340384602546692,0,Low
+T000640,10/12/2025 17:45,C64656,Silver,3.0,14.0,Order,My order has not been shipped yet. It was placed last week.,Medium,-0.9988719820976257,0,Low
+T000641,11/12/2025 1:00,C66676,Gold,8.0,31.0,Delivery,My delivery is overdue. This is causing significant inconvenience.,High,-0.9995548129081726,0,Medium
+T000642,11/12/2025 10:29,C68696,Platinum,12.0,46.0,Account,I need to change my registered email address immediately as it's compromised.,High,-0.999482274055481,0,High
+T000643,11/12/2025 18:50,C70717,Classic,4.0,13.0,Payment,I have a question about a pending payment for my subscription.,Medium,-0.9976407289505005,0,Low
+T000644,12/12/2025 4:37,C72737,Silver,5.0,19.0,Login,"I'm having a minor issue logging in, can you guide me?",Low,-0.9957197308540344,0,Medium
+T000645,12/12/2025 11:46,C74757,Gold,7.0,27.0,Order,This is the third time my order has been cancelled. I need this resolved now.,High,-0.9982572197914124,0,Medium
+T000646,12/12/2025 21:10,C76777,Platinum,9.0,35.0,Product,The product I received is defective. I need a replacement shipped urgently.,High,-0.9997739195823669,1,High
+T000647,13/12/2025 5:02,C78797,Classic,2.0,6.0,Account,Could you help me update my contact preferences?,Low,-0.9985342025756836,0,Low
+T000648,13/12/2025 14:16,C80818,Silver,4.0,17.0,Refund,I want to initiate a refund for an unwanted item. When can I expect it?,Medium,-0.9995892643928528,0,Medium
+T000649,13/12/2025 23:07,C82838,Gold,10.0,34.0,Login,My delivery is significantly delayed. I'm very frustrated with the service.,High,-0.999775230884552,0,High
+T000650,14/12/2025 7:49,C84858,Platinum,11.0,43.0,Login,I cannot access my account after multiple attempts. This is urgent.,High,-0.995250940322876,1,High
+T000651,14/12/2025 16:58,C86878,Classic,3.0,9.0,Payment,"My payment was declined, but I have sufficient funds. Please help urgently.",High,0.9964141249656677,1,Low
+T000652,15/12/2025 1:53,C88898,Silver,6.0,23.0,Order,What is the estimated delivery time for my recent order?,Medium,-0.9991378784179688,0,Medium
+T000653,15/12/2025 8:44,C90919,Gold,7.0,30.0,Refund,I need a refund for an item that was never delivered. This needs immediate attention.,High,-0.999514102935791,0,Medium
+T000654,15/12/2025 18:18,C12345,Classic,2.0,5.5,Login,"I cannot login to my account, I need a password reset urgently.",High,-0.9969363212585449,0,Low
+T000655,16/12/2025 2:15,C67890,Silver,4.0,12.2,Payment,"My recent payment failed, please assist.",Medium,-0.9979087114334106,0,Low
+T000656,16/12/2025 11:44,C11223,Gold,6.0,28.1,Delivery,Where is my package? It was supposed to arrive yesterday.,High,-0.9969624876976013,0,Medium
+T000657,16/12/2025 21:02,C44556,Platinum,8.0,38.5,Refund,"I need a refund for order #98765, it's been weeks.",High,-0.9987888932228088,0,High
+T000658,17/12/2025 4:34,C77889,Classic,1.0,23.0,Product,Can you tell me more about the features of this item?,Low,-0.6171707510948181,0,Medium
+T000659,17/12/2025 14:21,C99001,Silver,3.0,8.0,Order,"My order status hasn't updated in days, what's going on?",Medium,-0.9980441331863403,0,Low
+T000660,17/12/2025 22:48,C22334,Gold,7.0,31.0,Account,I need to change my registered email address immediately.,High,-0.9993994235992432,0,Medium
+T000661,18/12/2025 6:37,C55667,Platinum,10.0,42.3,Login,I'm still locked out of my account after trying to reset my password.,Medium,-0.9995924830436707,0,High
+T000662,18/12/2025 15:46,C88990,Classic,0.0,1.0,Other,Just a quick question about your return policy.,Low,-0.9959039092063904,0,Low
+T000663,18/12/2025 23:02,C10101,Silver,5.0,23.0,Payment,"My card was charged twice for the same order, this is unacceptable.",High,-0.9997568726539612,0,Medium
+T000664,19/12/2025 9:26,C33445,Gold,9.0,35.5,Delivery,"This is the third time my delivery has been delayed, I'm very frustrated.",High,-0.9996988773345947,0,High
+T000665,19/12/2025 16:46,C66778,Platinum,7.0,39.0,Product,"The product I received is damaged, can you help?",Medium,-0.9997918009757996,0,High
+T000666,20/12/2025 1:44,C99000,Classic,3.0,7.2,Refund,I'd like to request a refund for an item I returned last week.,Low,-0.9965267777442932,0,Low
+T000667,20/12/2025 10:00,C12121,Silver,6.0,20.1,Login,I'm having trouble logging in to my account.,Medium,-0.9994427561759949,0,Medium
+T000668,20/12/2025 19:46,C44556,Gold,8.0,33.0,Payment,"My payment is pending for over 24 hours, please resolve this asap.",High,-0.97386634349823,1,High
+T000669,21/12/2025 3:49,C77889,Platinum,9.0,45.0,Delivery,"My delivery is late again, I need this resolved immediately.",High,-0.9973704814910889,0,High
+T000670,21/12/2025 12:36,C10101,Classic,1.0,3.0,Account,Could you assist me with updating my shipping address?,Low,-0.9981254935264587,0,Low
+T000671,21/12/2025 21:15,C22334,Classic,4.0,10.5,Order,Is there an update on my order #54321?,Medium,-0.9992258548736572,0,Low
+T000672,22/12/2025 5:04,C55667,Gold,7.0,29.5,Login,"I cannot access my account, this is an urgent issue.",High,-0.997051477432251,0,Medium
+T000673,22/12/2025 13:27,C88990,Platinum,10.0,40.2,Refund,I demand a refund for this faulty product. It's not working.,High,-0.9998031258583069,0,High
+T000674,22/12/2025 23:27,C11223,Classic,2.0,6.0,Product,I have a question about the warranty for this item.,Low,-0.9900279641151428,0,Low
+T000675,23/12/2025 7:28,C33445,Silver,5.0,14.0,Delivery,"My package seems to be stuck in transit, can you check?",Medium,-0.9995920062065125,0,Medium
+T000676,23/12/2025 16:07,C66778,Gold,8.0,37.5,Account,I need to change my phone number associated with this account.,Medium,-0.9994059801101685,0,High
+T000677,24/12/2025 0:30,C99001,Platinum,7.0,41.1,Payment,"My payment was declined, but I have sufficient funds. This needs immediate attention.",High,0.6641933917999268,0,High
+T000678,24/12/2025 8:44,C12345,Classic,0.0,1.5,Login,"Password reset link not working, I'm locked out and need access now.",High,-0.9983952641487122,0,Low
+T000679,24/12/2025 18:51,C44556,Silver,3.0,23.0,Order,Just checking on the status of my order #11223.,Low,-0.9953293800354004,0,Medium
+T000680,25/12/2025 3:29,C77889,Gold,6.0,27.0,Delivery,"My delivery is significantly delayed, this is frustrating.",High,-0.9996198415756226,0,Medium
+T000681,25/12/2025 11:13,C10101,Platinum,9.0,43.0,Refund,I'm requesting a refund for a product that didn't meet expectations.,Medium,-0.9991330504417419,0,High
+T000682,25/12/2025 20:52,C22334,Classic,1.0,4.0,Product,Can you confirm if this item is compatible with my existing setup?,Low,-0.9970870614051819,0,Low
+T000683,26/12/2025 5:28,C55667,Silver,5.0,16.5,Login,I'm unable to log in after the recent update.,Medium,-0.9991855025291443,0,Medium
+T000684,26/12/2025 14:19,C88990,Gold,8.0,34.2,Payment,"My payment has been processing for too long, this needs to be fixed asap.",High,-0.999739944934845,1,High
+T000685,26/12/2025 23:06,C11223,Platinum,7.0,39.5,Delivery,This is the second time my delivery has gone to the wrong address. Fix this immediately!,High,-0.9991518259048462,1,High
+T000686,27/12/2025 6:50,C33445,Classic,2.0,7.5,Account,I want to update my billing information.,Low,-0.9988116025924683,0,Low
+T000687,27/12/2025 15:12,C66778,Silver,4.0,11.0,Refund,"I initiated a refund request last week, any updates?",Medium,-0.9965794682502747,0,Low
+T000688,28/12/2025 0:26,C99000,Gold,9.0,38.0,Login,"I'm repeatedly locked out of my account, this is a critical issue.",High,-0.9985712766647339,1,High
+T000689,28/12/2025 9:12,C12121,Platinum,10.0,46.0,Order,"My order #77889 was supposed to be here days ago, this is unacceptable and I need it now.",High,-0.9990118741989136,0,High
+T000690,28/12/2025 16:53,C10101,Classic,0.0,2.5,Other,I have a question about bulk discounts.,Low,-0.9867466688156128,0,Low
+T000691,29/12/2025 1:32,C22334,Silver,5.0,13.5,Payment,"My payment didn't go through, can you help me retry?",Medium,-0.9988982677459717,0,Medium
+T000692,29/12/2025 10:40,C55667,Gold,7.0,30.0,Delivery,My package is marked as delivered but I never received it. This is urgent.,High,-0.9927706122398376,1,Medium
+T000693,29/12/2025 18:51,C88990,Platinum,8.0,42.0,Product,The item I received has a manufacturing defect.,Medium,-0.9990450739860535,0,High
+T000694,30/12/2025 3:01,C11223,Classic,3.0,8.2,Refund,Can I get a refund if I return this item unused?,Low,-0.9995878338813782,0,Low
+T000695,30/12/2025 11:56,C33445,Silver,6.0,19.0,Login,My login credentials are not working.,Medium,-0.9997912049293518,0,Medium
+T000696,30/12/2025 20:54,C66778,Gold,9.0,36.5,Account,I need to change my registered address immediately due to an upcoming move.,High,-0.9991788268089294,0,High
+T000697,31/12/2025 5:28,C99001,Platinum,7.0,40.0,Delivery,This is the fourth time my delivery has been late. I need a resolution now.,High,-0.9985496401786804,0,High
+T000698,31/12/2025 13:33,C12345,Classic,1.0,5.0,Order,Could you please provide an estimated delivery date for my order?,Low,-0.9966259002685547,0,Low
+T000699,31/12/2025 23:13,C44556,Silver,4.0,10.0,Product,I'm having trouble assembling this product.,Medium,-0.9994680285453796,0,Low
+T000700,1/1/2026 7:37,C77889,Gold,8.0,32.0,Payment,My payment is stuck in pending for an unreasonable amount of time. Resolve this asap.,High,-0.9989632368087769,1,High
+T000701,1/1/2026 16:03,C10101,Platinum,10.0,45.5,Login,I am completely locked out of my account and need immediate access.,High,-0.9996191263198853,0,High
+T000702,2/1/2026 0:10,C22334,Classic,2.0,6.5,Other,Just a quick question about your loyalty program.,Low,-0.984730064868927,0,Low
+T000703,2/1/2026 8:58,C55667,Silver,5.0,17.0,Refund,"My refund hasn't been processed yet, it's been over a week.",Medium,-0.996653139591217,0,Medium
+T000704,2/1/2026 19:07,C88990,Gold,7.0,28.5,Delivery,"My delivery is late again, I am very frustrated and need it today.",High,-0.9912840127944946,0,Medium
+T000705,3/1/2026 3:34,C12345,Classic,1.0,5.5,Login,"I cannot login to my account, please help immediately.",High,-0.9252479672431946,0,Low
+T000706,3/1/2026 11:56,C67890,Silver,3.0,12.0,Payment,"My last payment was declined, can you assist?",Medium,-0.9933678507804871,0,Low
+T000707,3/1/2026 19:41,C13579,Gold,6.0,28.5,Delivery,"My order hasn't arrived yet, it was supposed to be here yesterday.",High,-0.9962096214294434,0,Medium
+T000708,4/1/2026 4:41,C24680,Classic,4.0,18.0,Refund,I want to request a refund for item XYZ.,Medium,-0.998894989490509,0,Medium
+T000709,4/1/2026 13:53,C98765,Classic,0.0,2.0,Product,I have a question about product ABC.,Low,-0.987908661365509,0,Low
+T000710,4/1/2026 22:51,C54321,Silver,2.0,8.0,Order,Where is my order number 12345?,Medium,-0.9984261989593506,0,Low
+T000711,5/1/2026 6:22,C11223,Gold,7.0,35.0,Account,I need to update my shipping address urgently.,High,-0.9992805123329163,1,High
+T000712,5/1/2026 14:59,C44556,Platinum,3.0,15.0,Login,I forgot my password and need a reset.,Medium,-0.999291181564331,0,Low
+T000713,5/1/2026 23:08,C77889,Classic,2.0,7.0,Payment,"My payment is stuck processing, what's happening?",Medium,-0.9995254278182983,0,Low
+T000714,6/1/2026 8:40,C99001,Silver,4.0,23.0,Delivery,This is the second time my delivery has been late.,High,-0.9908874034881592,0,Medium
+T000715,6/1/2026 17:19,C12121,Gold,5.0,25.0,Refund,I received the wrong item and need a refund.,Medium,-0.9992496371269226,0,Medium
+T000716,7/1/2026 2:47,C23232,Platinum,6.0,30.0,Product,Can you tell me more about the warranty on this item?,Low,-0.9821143746376038,0,Medium
+T000717,7/1/2026 11:30,C34343,Classic,1.0,4.0,Order,My order status hasn't updated in days.,Medium,-0.9965921640396118,0,Low
+T000718,7/1/2026 19:22,C45454,Silver,5.0,10.0,Account,I need to change the email on my account.,Medium,-0.999017596244812,0,Medium
+T000719,8/1/2026 4:13,C56565,Gold,8.0,40.0,Login,"I am locked out of my account, this is unacceptable.",High,-0.9997420907020569,0,High
+T000720,8/1/2026 13:00,C67676,Platinum,5.0,22.0,Payment,"There's a fraudulent charge on my account, please investigate.",Medium,-0.9917610883712769,0,Medium
+T000721,8/1/2026 21:58,C78787,Classic,0.0,1.5,Other,I have a general inquiry about your services.,Low,0.922371506690979,0,Low
+T000722,9/1/2026 4:52,C89898,Silver,2.0,6.0,Delivery,My package was damaged during transit.,Medium,-0.9994028806686401,0,Low
+T000723,9/1/2026 13:45,C90909,Gold,7.0,38.0,Refund,I have been waiting for my refund for over a week.,High,-0.9979883432388306,0,High
+T000724,9/1/2026 22:55,C10101,Platinum,4.0,19.0,Order,Can you expedite my order?,Medium,-0.996898889541626,0,Medium
+T000725,10/1/2026 6:48,C11211,Classic,5.0,9.0,Login,I'm still unable to log in after the password reset.,High,-0.9994843006134033,0,Medium
+T000726,10/1/2026 15:21,C12312,Silver,1.0,3.0,Product,Just wondering about the dimensions of this product.,Low,-0.9318856596946716,0,Low
+T000727,11/1/2026 0:38,C13413,Gold,6.0,32.0,Payment,"My payment failed, and I need to complete my purchase asap.",High,-0.9996535778045654,1,High
+T000728,11/1/2026 10:05,C14514,Platinum,5.0,26.0,Delivery,My delivery is marked as arrived but it's not here.,High,-0.9993159770965576,0,Medium
+T000729,11/1/2026 19:11,C15615,Classic,2.0,6.5,Account,I need to update my phone number.,Medium,-0.9995177984237671,0,Low
+T000730,12/1/2026 2:23,C16716,Silver,4.0,14.0,Refund,Can you confirm my refund status?,Medium,-0.9941611886024475,0,Low
+T000731,12/1/2026 11:36,C17817,Gold,7.0,37.0,Login,This is the third time I've been locked out this month!,High,-0.9221501350402832,1,High
+T000732,12/1/2026 19:53,C18918,Platinum,3.0,17.0,Product,Is this product available in other colors?,Low,-0.9963035583496094,0,Medium
+T000733,13/1/2026 3:59,C19019,Classic,0.0,2.5,Order,When will my order ship?,Medium,-0.9990382194519043,0,Low
+T000734,13/1/2026 14:06,C20120,Silver,5.0,21.0,Payment,I'm having trouble with a recurring payment.,Medium,-0.9994812607765198,0,Medium
+T000735,13/1/2026 21:56,C21221,Gold,8.0,42.0,Delivery,"My package is lost in transit, I need a replacement immediately.",High,-0.9995782971382141,0,High
+T000736,14/1/2026 6:28,C22322,Platinum,4.0,20.0,Refund,I'd like to return an item I purchased.,Medium,0.9974949359893799,0,Medium
+T000737,14/1/2026 15:24,C23423,Classic,1.0,4.5,Login,"My login credentials are not working, please help.",High,-0.9995728135108948,0,Low
+T000738,15/1/2026 0:50,C24524,Silver,3.0,11.0,Account,How do I change my primary email address?,Medium,-0.9994964599609375,0,Low
+T000739,15/1/2026 8:58,C25625,Gold,6.0,30.0,Order,"My order was cancelled by mistake, can you reinstate it?",High,-0.9997555613517761,0,Medium
+T000740,15/1/2026 17:38,C26726,Platinum,5.0,24.0,Payment,Is there a discount for bulk purchases?,Medium,-0.9968920350074768,0,Medium
+T000741,16/1/2026 1:36,C27827,Classic,2.0,7.5,Product,Could you provide more information on the materials used?,Low,-0.9991084933280945,0,Low
+T000742,16/1/2026 9:52,C28928,Silver,4.0,16.0,Delivery,"This is urgent, I need this delivered by tomorrow.",High,-0.976557195186615,1,Medium
+T000743,16/1/2026 19:34,C29029,Gold,7.0,39.0,Login,"I cannot access my account, I'm extremely frustrated.",High,-0.9997740387916565,0,High
+T000744,17/1/2026 3:29,C30130,Platinum,3.0,18.0,Refund,When can I expect my refund to be processed?,Low,-0.9988352656364441,0,Medium
+T000745,17/1/2026 12:56,C31231,Classic,1.0,5.0,Order,My order details seem incorrect.,Medium,-0.9997616410255432,0,Low
+T000746,17/1/2026 20:15,C32332,Silver,5.0,23.0,Payment,"My card was charged twice, please reverse one.",High,-0.9745944142341614,0,Medium
+T000747,18/1/2026 5:09,C33433,Gold,5.0,41.0,Account,I need to change my billing address immediately.,High,-0.9994843006134033,0,High
+T000748,18/1/2026 14:19,C34534,Platinum,4.0,22.0,Delivery,Can you provide tracking for my shipment?,Medium,-0.9979851245880127,0,Medium
+T000749,18/1/2026 23:09,C35635,Classic,0.0,3.5,Product,Just a quick question about product features.,Low,-0.9752114415168762,0,Low
+T000750,19/1/2026 8:04,C36736,Silver,3.0,13.0,Login,I am having trouble logging in to my account.,Medium,-0.9993504881858826,0,Low
+T000751,21/10/2025 16:46,C12345,Classic,2.0,10.5,Login,"I cannot login to my account, please reset my password urgently",High,-0.9865716695785522,0,Low
+T000752,22/10/2025 0:07,C67890,Silver,3.0,15.2,Payment,I am having trouble processing a payment for my recent order,Medium,-0.9996324777603149,0,Low
+T000753,22/10/2025 9:53,C23456,Gold,6.0,28.1,Delivery,"My order has not arrived yet, and it was supposed to be here yesterday",High,-0.9982175230979919,0,Medium
+T000754,22/10/2025 18:18,C78901,Platinum,8.0,35.5,Refund,I need a refund for a product that arrived damaged,High,-0.9997656941413879,0,High
+T000755,23/10/2025 2:00,C34567,Classic,1.0,5.0,Product,I have a question about the specifications of a product I am considering,Low,-0.9389262199401855,0,Low
+T000756,23/10/2025 11:18,C89012,Silver,4.0,20.3,Order,Can you help me track my order status,Medium,-0.9621546864509583,0,Medium
+T000757,23/10/2025 20:10,C45678,Gold,7.0,31.0,Account,"I need to update my shipping address, it's urgent",High,-0.9961932897567749,1,Medium
+T000758,24/10/2025 5:04,C90123,Platinum,9.0,40.2,Login,"My account is locked, and I need immediate access",High,-0.9988559484481812,0,High
+T000759,24/10/2025 14:10,C56789,Classic,5.0,2.0,Delivery,Just wondering when my new order will be shipped,Low,-0.9959959983825684,0,Medium
+T000760,24/10/2025 22:27,C01234,Silver,5.0,22.7,Refund,I would like to request a refund for an item I returned last week,Medium,-0.9971694350242615,0,Medium
+T000761,25/10/2025 6:18,C11223,Gold,5.0,38.0,Payment,"The payment failed again for my subscription, this is very frustrating",High,-0.9997891783714294,0,High
+T000762,25/10/2025 15:12,C22334,Platinum,10.0,45.1,Product,"This product is not working at all, I need it fixed right away",High,-0.9997038245201111,0,High
+T000763,25/10/2025 23:34,C33445,Classic,3.0,18.9,Login,I forgot my password and need to reset it,Medium,-0.9994294047355652,0,Medium
+T000764,26/10/2025 9:20,C44556,Silver,6.0,25.5,Order,"My order seems to be stuck in transit, can you check",Medium,-0.9997254014015198,0,Medium
+T000765,26/10/2025 17:17,C55667,Gold,9.0,39.8,Delivery,"My package was left in the rain and is damaged, I need this resolved ASAP",High,-0.999509334564209,1,High
+T000766,27/10/2025 1:10,C66778,Platinum,7.0,33.0,Account,I need to change my registered email address for my account,Medium,-0.9995297193527222,0,High
+T000767,27/10/2025 10:47,C77889,Classic,5.0,7.5,Payment,Could you please confirm if my last payment went through successfully,Low,-0.9933726787567139,0,Medium
+T000768,27/10/2025 18:54,C88990,Silver,4.0,19.0,Refund,I am requesting a refund for an item that was not as described,Medium,-0.9964787364006042,0,Medium
+T000769,28/10/2025 4:41,C99001,Gold,10.0,42.0,Login,I am locked out of my account and have important work to do,High,0.9817500114440918,0,High
+T000770,28/10/2025 11:38,C00112,Platinum,8.0,37.5,Delivery,"My delivery is late again, this is unacceptable service",High,-0.9997712969779968,0,High
+T000771,28/10/2025 21:00,C12113,Classic,2.0,9.0,Order,Just checking on the status of my recent order,Low,-0.9516711235046387,0,Low
+T000772,29/10/2025 6:23,C23224,Silver,5.0,21.1,Product,"I have an issue with a product I received, it seems to be defective",Medium,-0.9998123049736023,0,Medium
+T000773,29/10/2025 15:11,C34335,Gold,7.0,30.5,Payment,"My card was charged twice for the same order, please fix this immediately",High,-0.9969097971916199,0,Medium
+T000774,29/10/2025 23:02,C45446,Platinum,9.0,41.0,Refund,"I need an urgent refund for this faulty item, it's not working",High,-0.9997982382774353,0,High
+T000775,30/10/2025 7:40,C56557,Classic,0.0,23.0,Account,I want to update my phone number on my account,Low,-0.9982507824897766,0,Medium
+T000776,30/10/2025 17:14,C67668,Silver,3.0,16.0,Login,I'm having trouble logging into my account,Medium,-0.9992247819900513,0,Medium
+T000777,31/10/2025 0:04,C78779,Gold,8.0,36.0,Order,"My order was supposed to be delivered by now, I need an update urgently",High,-0.9988850951194763,0,High
+T000778,31/10/2025 8:52,C89880,Classic,10.0,44.0,Delivery,"The delivery driver left my package in a dangerous location, this is concerning",High,-0.9920883774757385,1,High
+T000779,31/10/2025 18:25,C90991,Classic,1.0,6.5,Payment,Could you confirm the details of my latest payment,Low,-0.6252951622009277,0,Low
+T000780,1/11/2025 3:44,C01002,Silver,4.0,20.0,Refund,I would like to initiate a refund for a cancelled order,Medium,-0.9996097683906555,0,Medium
+T000781,1/11/2025 10:57,C11113,Gold,6.0,29.0,Product,"This product is broken upon arrival, I need a replacement immediately",High,-0.998815655708313,0,Medium
+T000782,1/11/2025 20:15,C22224,Platinum,8.0,38.5,Login,I've tried to reset my password multiple times and it's still not working,High,-0.9997610449790955,0,High
+T000783,2/11/2025 4:28,C33335,Classic,2.0,11.0,Delivery,My delivery is taking longer than expected,Medium,-0.9970775842666626,0,Low
+T000784,2/11/2025 13:31,C44446,Classic,5.0,23.0,Account,I need to change my billing address,Low,-0.9995817542076111,0,Medium
+T000785,2/11/2025 22:38,C55557,Gold,7.0,32.0,Payment,"I'm being charged for a service I cancelled, please refund me",High,-0.9904244542121887,0,High
+T000786,3/11/2025 6:09,C66668,Platinum,9.0,40.0,Order,"My order is missing items, this is the second time this has happened",High,-0.9997733235359192,0,High
+T000787,3/11/2025 14:30,C77779,Classic,0.0,4.0,Refund,I want to check the status of my refund request,Low,-0.9932097792625427,0,Low
+T000788,4/11/2025 0:36,C88880,Silver,3.0,17.0,Product,I have a question about how to assemble a product I bought,Medium,-0.9781866669654846,0,Medium
+T000789,4/11/2025 8:38,C99991,Gold,10.0,43.0,Login,"I'm completely locked out of my account, this is critical",High,-0.9992539286613464,1,High
+T000790,4/11/2025 17:36,C00002,Platinum,7.0,37.0,Payment,"There's an unauthorized charge on my account, I need it reversed immediately",High,-0.9991999268531799,0,High
+T000791,5/11/2025 1:10,C12312,Classic,1.0,8.0,Order,Can you give me an estimated delivery date for my order,Low,-0.9865803718566895,0,Low
+T000792,5/11/2025 10:38,C23433,Silver,4.0,21.5,Delivery,"My package arrived damaged, can you assist with this",Medium,-0.9993438124656677,0,Medium
+T000793,5/11/2025 18:32,C34544,Gold,6.0,28.0,Account,I need to change my primary email address urgently due to security concerns,High,-0.9992745518684387,0,Medium
+T000794,6/11/2025 3:12,C45655,Platinum,8.0,39.0,Product,"The item I received is not what I ordered, this needs immediate correction",High,-0.9997449517250061,0,High
+T000795,6/11/2025 13:01,C56766,Classic,2.0,10.0,Login,I cannot access my account and need help as soon as possible,High,-0.9996073842048645,0,Low
+T000796,6/11/2025 20:38,C67877,Silver,5.0,24.0,Refund,I am seeking a refund for an item that was not delivered,Medium,-0.9992589354515076,0,Medium
+T000797,7/11/2025 6:01,C78988,Gold,9.0,41.5,Delivery,"My delivery is extremely late, this is unacceptable and I need it now",High,-0.9993436932563782,0,High
+T000798,7/11/2025 13:38,C89099,Platinum,10.0,46.0,Payment,"I was double charged for my purchase, this is urgent",High,0.9962952733039856,1,High
+T000799,7/11/2025 23:07,C90100,Classic,0.0,3.5,Product,I have a query regarding the warranty on a product,Low,-0.9771975874900818,0,Low
+T000800,8/11/2025 7:08,C01211,Silver,3.0,19.5,Order,"My order status hasn't updated in days, can you look into it",Medium,0.6929839253425598,0,Medium
+T000801,8/11/2025 16:51,C12212,Gold,7.0,33.5,Login,I am unable to log in and require immediate assistance to regain access,High,-0.9992926120758057,0,High
+T000802,9/11/2025 1:27,C12345,Classic,2.0,8.5,Login,I cannot login to my account. Please reset my password asap.,High,-0.989462673664093,1,Low
+T000803,9/11/2025 9:31,C67890,Silver,4.0,15.2,Login,"I am having an issue with a recent payment, need assistance.",Medium,-0.9970664381980896,0,Low
+T000804,9/11/2025 17:20,C11223,Gold,7.0,32.1,Delivery,"My package has not arrived yet, it was supposed to be here two days ago.",High,-0.9979246854782104,0,High
+T000805,10/11/2025 3:00,C44556,Platinum,9.0,40.5,Refund,"I need to request a refund for order #98765, the item is defective.",High,-0.9998006224632263,0,High
+T000806,10/11/2025 12:19,C77889,Classic,1.0,4.2,Product,Just wondering about the product specifications for item XYZ.,Low,-0.9638978242874146,0,Low
+T000807,10/11/2025 20:11,C99001,Silver,3.0,12.0,Order,Can you help me change the shipping address for my order?,Medium,-0.9992066025733948,0,Low
+T000808,11/11/2025 5:12,C13579,Gold,6.0,23.0,Account,I need to update my email address on file.,Medium,-0.9995108842849731,0,Medium
+T000809,11/11/2025 13:26,C24680,Platinum,8.0,38.9,Login,My account is locked and I need immediate access. This is very urgent.,High,0.9140153527259827,1,High
+T000810,11/11/2025 22:05,C10112,Classic,0.0,1.1,Delivery,My order was delivered but the tracking information is not updating.,Low,-0.999725878238678,0,Low
+T000811,12/11/2025 6:54,C13141,Silver,5.0,20.3,Payment,I was charged twice for my last purchase. Please investigate.,Medium,0.9350408911705017,0,Medium
+T000812,12/11/2025 15:49,C15161,Gold,8.0,35.6,Product,The product I received is not what I ordered. I need a replacement.,High,-0.9997879862785339,0,High
+T000813,13/11/2025 0:43,C17181,Platinum,10.0,45.1,Login,I am extremely frustrated. I want a full refund for my order immediately.,High,-0.9996601343154907,0,High
+T000814,13/11/2025 8:20,C19202,Classic,2.0,9.8,Account,Could you assist me in changing my phone number on my profile?,Low,-0.9986591339111328,0,Low
+T000815,13/11/2025 17:14,C21222,Silver,4.0,18.4,Login,I forgot my password and the reset link is not working.,Medium,-0.9997640252113342,0,Medium
+T000816,14/11/2025 2:33,C23242,Gold,7.0,30.2,Delivery,My delivery is late again. This is unacceptable.,High,-0.9997523427009583,0,Medium
+T000817,14/11/2025 10:06,C25262,Platinum,9.0,39.5,Payment,There's a fraudulent charge on my account. Please reverse it now.,High,-0.9986079335212708,0,High
+T000818,14/11/2025 20:12,C27282,Classic,1.0,5.5,Order,When will my order #12345 ship?,Low,-0.9991931319236755,0,Low
+T000819,15/11/2025 3:27,C29303,Silver,3.0,13.1,Refund,I received a damaged item and would like to initiate a refund.,Medium,-0.9978500604629517,0,Low
+T000820,15/11/2025 12:10,C31323,Gold,6.0,29.0,Login,"I'm having trouble logging in, can you help?",Medium,-0.9990838766098022,0,Medium
+T000821,15/11/2025 20:35,C33343,Platinum,8.0,42.0,Product,This product is not working as advertised. I need a resolution today.,High,-0.9978121519088745,0,High
+T000822,16/11/2025 6:05,C35363,Classic,0.0,2.0,Other,I have a question about your loyalty program.,Low,-0.9242335557937622,0,Low
+T000823,16/11/2025 14:10,C37383,Silver,5.0,22.1,Delivery,The estimated delivery date has passed. Any updates?,Medium,-0.9993595480918884,0,Medium
+T000824,16/11/2025 22:30,C39404,Gold,7.0,33.5,Account,I need to update my billing address.,Medium,-0.9995989203453064,0,High
+T000825,17/11/2025 6:49,C41424,Platinum,10.0,47.8,Order,My order was supposed to arrive yesterday and it's still not here. This is urgent.,High,-0.996708869934082,1,High
+T000826,17/11/2025 16:25,C43444,Classic,2.0,10.5,Payment,I have a question about my last bill.,Low,-0.9823769330978394,0,Low
+T000827,18/11/2025 1:59,C45464,Silver,4.0,16.0,Product,The color of the item I received is different from what was shown online.,Medium,-0.9544391632080078,0,Medium
+T000828,18/11/2025 9:41,C47484,Gold,9.0,37.2,Login,I'm locked out of my account again and need access immediately.,High,-0.9978603720664978,0,High
+T000829,18/11/2025 18:09,C49505,Platinum,8.0,43.3,Refund,I demand a refund for this faulty product. I'm very unhappy.,High,-0.999816358089447,0,High
+T000830,19/11/2025 2:14,C51525,Classic,1.0,6.0,Delivery,Just checking on the status of my recent delivery.,Low,-0.9573197364807129,0,Low
+T000831,19/11/2025 10:52,C53545,Silver,3.0,14.0,Account,Can I change my registered phone number?,Low,-0.998970627784729,0,Low
+T000832,19/11/2025 20:22,C55565,Gold,6.0,27.5,Payment,"My payment was declined, but I have sufficient funds.",Medium,0.9974024891853333,0,Medium
+T000833,20/11/2025 4:51,C57585,Classic,7.0,36.8,Product,The item is broken. I need this fixed as soon as possible.,High,-0.9993109703063965,0,High
+T000834,20/11/2025 13:37,C59606,Classic,0.0,1.5,Order,When will my order be shipped?,Low,-0.998764157295227,0,Low
+T000835,20/11/2025 21:44,C61626,Silver,5.0,19.0,Login,I'm unable to log in to my account. Can you help?,Medium,-0.9991568326950073,0,Medium
+T000836,21/11/2025 7:00,C63646,Gold,8.0,31.0,Delivery,This is the second time my delivery has been delayed. Very frustrating.,High,-0.9993370175361633,0,Medium
+T000837,21/11/2025 15:09,C65666,Platinum,9.0,41.5,Refund,I need to cancel my order and get a full refund. This is urgent.,High,0.5852532982826233,1,High
+T000838,22/11/2025 0:47,C67686,Classic,2.0,11.2,Account,I want to update my primary address.,Low,-0.9992063641548157,0,Low
+T000839,22/11/2025 8:48,C69707,Silver,4.0,17.5,Payment,I have a question regarding a charge on my credit card.,Medium,-0.9912444353103638,0,Medium
+T000840,22/11/2025 16:26,C71727,Gold,7.0,30.5,Product,The product is not functioning correctly. I need a replacement.,High,-0.9998025298118591,0,Medium
+T000841,23/11/2025 2:20,C73747,Platinum,10.0,46.0,Login,I have been trying to reset my password for hours with no success. This is critical.,High,-0.9991987347602844,1,High
+T000842,23/11/2025 10:16,C75767,Classic,1.0,7.0,Other,Could you explain your return policy?,Low,-0.9984492063522339,0,Low
+T000843,23/11/2025 19:00,C77787,Silver,3.0,15.5,Order,I need to confirm the details of my order #67890.,Medium,-0.9977001547813416,0,Low
+T000844,24/11/2025 3:14,C79808,Gold,6.0,29.8,Delivery,My delivery is extremely late. I need it now.,High,-0.9985488057136536,0,Medium
+T000845,24/11/2025 11:52,C81828,Platinum,8.0,40.0,Payment,There's an unauthorized transaction on my account. Please resolve immediately.,High,-0.8053274750709534,0,High
+T000846,24/11/2025 20:30,C83848,Classic,0.0,2.5,Login,I'm having some difficulty logging in.,Medium,-0.998450756072998,0,Low
+T000847,25/11/2025 6:06,C85868,Silver,5.0,21.0,Refund,I would like to request a refund for an item I returned.,Medium,-0.9971405267715454,0,Medium
+T000848,25/11/2025 14:52,C87888,Gold,7.0,34.5,Account,I need to change my registered email address urgently.,High,-0.9993035793304443,0,High
+T000849,25/11/2025 22:42,C89909,Platinum,9.0,23.0,Product,This product is defective and I need it fixed today.,High,-0.9997846484184265,0,Medium
+T000850,26/11/2025 7:15,C91929,Classic,2.0,10.0,Delivery,When can I expect my order?,Low,-0.9949235320091248,0,Low
+T000851,26/11/2025 15:40,C93949,Silver,4.0,18.0,Order,"I made a mistake on my order, can you help me correct it?",Medium,-0.9997448325157166,0,Medium
+T000852,27/11/2025 1:59,C95969,Gold,8.0,32.0,Payment,My payment keeps failing. This is impacting my ability to purchase.,High,-0.7729032635688782,0,High
+T000853,27/11/2025 10:33,C12345,Classic,2.0,12.5,Login,"I cannot login to my account, it says my password is incorrect, please reset",High,-0.9975753426551819,0,Low
+T000854,27/11/2025 18:04,C67890,Silver,4.0,20.1,Payment,"My recent order payment failed, can you please check the status",Medium,-0.9995774626731873,0,Medium
+T000855,28/11/2025 2:08,C11223,Gold,6.0,30.5,Delivery,"My package has been delayed for a week, I need it urgently",High,-0.9887063503265381,1,Medium
+T000856,28/11/2025 10:37,C44556,Platinum,8.0,40.0,Refund,"I want a refund for item X, it arrived damaged and I need it processed ASAP",High,-0.9992283582687378,1,High
+T000857,28/11/2025 19:46,C77889,Classic,1.0,23.0,Product,I have a question about the product specifications for item Y,Low,-0.9904860854148865,0,Medium
+T000858,29/11/2025 5:02,C99001,Silver,3.0,15.2,Order,I need to change the shipping address for my recent order,Medium,-0.9995531439781189,0,Low
+T000859,29/11/2025 14:20,C22334,Gold,7.0,35.8,Account,I need to update my billing address on file,Medium,-0.9994791150093079,0,High
+T000860,29/11/2025 21:54,C55667,Platinum,9.0,45.1,Login,"My account is locked and I cannot access anything, this is unacceptable",High,-0.9997038245201111,0,High
+T000861,30/11/2025 6:04,C88990,Classic,0.0,2.0,Other,Just a general inquiry about your return policy,Low,-0.6046979427337646,0,Low
+T000862,30/11/2025 15:34,C10112,Silver,5.0,25.0,Product,The product I received is not what was advertised on your website,Medium,-0.9996925592422485,0,Medium
+T000863,30/11/2025 23:42,C33445,Gold,10.0,42.3,Payment,"My credit card was charged twice for the same order, please fix this immediately",High,-0.9973242282867432,0,High
+T000864,1/12/2025 7:56,C66778,Platinum,7.0,38.9,Delivery,"My delivery is overdue and I have no tracking updates, I am very frustrated",High,-0.9997226595878601,0,High
+T000865,1/12/2025 18:17,C99101,Classic,3.0,18.0,Refund,I would like to request a refund for a returned item,Medium,-0.9969782829284668,0,Medium
+T000866,2/12/2025 1:25,C12131,Silver,6.0,28.5,Login,"I'm still unable to log in after multiple password resets, please help",High,-0.998414158821106,0,Medium
+T000867,2/12/2025 11:04,C44556,Gold,8.0,39.2,Account,I need to change the email address associated with my account,Medium,-0.9993906021118164,0,High
+T000868,2/12/2025 19:33,C77889,Platinum,9.0,46.0,Order,"Cancel order Z immediately, I no longer need it",High,-0.9987921118736267,0,High
+T000869,3/12/2025 4:39,C11223,Classic,1.0,7.5,Payment,I have a question about a charge on my statement,Low,-0.9733327627182007,0,Low
+T000870,3/12/2025 12:31,C55667,Silver,4.0,22.0,Delivery,My order is taking longer than expected to arrive,Medium,-0.9982014894485474,0,Medium
+T000871,3/12/2025 21:05,C88990,Gold,7.0,33.0,Product,"The product is not working as intended, can you provide troubleshooting steps",Medium,-0.9997742772102356,0,High
+T000872,4/12/2025 5:16,C10112,Platinum,10.0,48.0,Refund,I need an urgent refund as the product is completely unusable,High,-0.9997392296791077,0,High
+T000873,4/12/2025 15:09,C22334,Classic,2.0,10.0,Login,I am locked out of my account and need immediate access,High,-0.9994295239448547,0,Low
+T000874,4/12/2025 23:59,C55667,Silver,5.0,26.5,Order,"I received the wrong item in my order, please send the correct one",Medium,-0.9941536784172058,0,Medium
+T000875,5/12/2025 7:02,C88990,Gold,9.0,41.0,Login,"My package is lost in transit, I need a resolution now",High,-0.9996914863586426,0,High
+T000876,5/12/2025 16:10,C11223,Platinum,7.0,37.5,Payment,"I was overcharged for my last order, please correct this ASAP",High,-0.9623705744743347,1,High
+T000877,6/12/2025 1:34,C33445,Classic,0.0,3.0,Account,I want to update my phone number,Low,-0.9981099367141724,0,Low
+T000878,6/12/2025 8:52,C66778,Silver,3.0,16.0,Login,I forgot my password and need help resetting it,Medium,-0.9996265172958374,0,Medium
+T000879,6/12/2025 19:03,C99101,Gold,8.0,38.0,Product,"The item I received is defective, what are my options",Medium,-0.9997343420982361,0,High
+T000880,7/12/2025 3:03,C12131,Platinum,9.0,43.0,Order,"I need to change the quantity on my order, it's urgent",High,-0.9975364208221436,1,High
+T000881,7/12/2025 12:06,C44556,Classic,5.0,5.0,Refund,Can I get a refund for an item I no longer need,Low,-0.9656044840812683,0,Medium
+T000882,7/12/2025 20:45,C77889,Silver,6.0,29.0,Delivery,What is the estimated delivery time for my order,Medium,-0.9977815747261047,0,Medium
+T000883,8/12/2025 5:53,C11223,Gold,10.0,40.0,Login,"I've tried everything to log in, but it keeps failing. This is frustrating.",High,-0.9994454979896545,0,High
+T000884,8/12/2025 12:55,C55667,Platinum,8.0,44.5,Payment,"I see a fraudulent charge on my account, please investigate immediately",High,-0.9799480438232422,0,High
+T000885,8/12/2025 21:22,C88990,Classic,2.0,11.0,Order,"My order was placed incorrectly, can it be modified",Medium,-0.9997326731681824,0,Low
+T000886,9/12/2025 6:28,C10112,Silver,4.0,21.5,Account,I need to change my primary shipping address,Medium,-0.9996577501296997,0,Medium
+T000887,9/12/2025 16:08,C22334,Gold,7.0,34.0,Delivery,My delivery is late and I need it for an event tonight,High,-0.9875866174697876,0,High
+T000888,10/12/2025 0:13,C55667,Platinum,9.0,47.0,Refund,"I demand a refund for this faulty product, it's not working at all",High,-0.9998090863227844,0,High
+T000889,10/12/2025 9:03,C88990,Classic,0.0,4.0,Product,I have a question about how to use this product,Low,-0.9889733195304871,0,Low
+T000890,10/12/2025 17:12,C11223,Silver,3.0,14.0,Login,"I'm having trouble logging in, can you assist",Medium,-0.9978658556938171,0,Low
+T000891,11/12/2025 1:44,C33445,Gold,6.0,31.0,Payment,"My payment was declined, but I have sufficient funds. Please resolve this.",High,0.9931333661079407,0,Medium
+T000892,11/12/2025 10:48,C66778,Platinum,8.0,23.0,Order,"I need to change the delivery speed on my order, this is very important",High,0.9885672330856323,0,Medium
+T000893,11/12/2025 19:48,C99101,Classic,1.0,6.0,Account,Could you tell me how to update my profile information,Low,-0.9985640645027161,0,Low
+T000894,12/12/2025 3:15,C12131,Silver,5.0,27.0,Product,The color of the product is different from what I expected,Medium,0.9961357116699219,0,Medium
+T000895,12/12/2025 13:11,C44556,Gold,9.0,39.5,Login,"I'm still locked out of my account, this is the second day, I need this fixed now",High,-0.9990440011024475,0,High
+T000896,12/12/2025 21:27,C77889,Platinum,10.0,45.5,Delivery,"My delivery is seriously overdue, I need this resolved immediately",High,-0.9904133677482605,1,High
+T000897,13/12/2025 5:53,C11223,Classic,2.0,9.0,Refund,I'd like to inquire about the status of my refund request,Medium,-0.5656534433364868,0,Low
+T000898,13/12/2025 15:01,C55667,Silver,4.0,23.0,Order,"I received part of my order, but not all of it",Medium,-0.9909472465515137,0,Medium
+T000899,13/12/2025 22:59,C88990,Gold,7.0,36.0,Account,I want to change my username,Medium,-0.999079704284668,0,High
+T000900,14/12/2025 7:37,C10112,Platinum,8.0,41.5,Login,I cannot access my account and it is preventing me from completing a crucial task,High,-0.9997392296791077,0,High
+T000901,14/12/2025 15:26,C22334,Classic,0.0,2.5,Other,When will item Z be back in stock,Low,-0.9980847835540771,0,Low
+T000902,15/12/2025 1:28,C55667,Silver,3.0,15.0,Payment,"There's an issue with my payment method, can you help",Medium,-0.9974564909934998,0,Low
+T000903,15/12/2025 8:44,C88990,Gold,6.0,32.5,Delivery,My package was marked as delivered but I never received it. This needs immediate attention.,High,-0.9988722205162048,0,High
+T000904,15/12/2025 18:01,C12345,Classic,2.0,12.5,Login,I cannot login to my account. It says my password is incorrect.,High,-0.9985445737838745,0,Low
+T000905,16/12/2025 3:25,C67890,Silver,5.0,20.0,Payment,I was charged twice for my order. Please investigate.,Medium,0.8479243516921997,0,Medium
+T000906,16/12/2025 11:29,C13579,Gold,7.0,30.0,Delivery,My package has not arrived. The tracking information is not updating.,High,-0.9997939467430115,0,Medium
+T000907,16/12/2025 19:53,C24680,Platinum,10.0,40.0,Refund,I need a refund for this defective product immediately.,High,-0.9997912049293518,0,High
+T000908,17/12/2025 4:24,C98765,Classic,1.0,8.0,Product,I have a question about the specifications of product X.,Low,-0.9895248413085938,0,Low
+T000909,17/12/2025 14:26,C54321,Silver,3.0,15.0,Order,I received the wrong item in my order. Can you help me exchange it?,Medium,-0.9993608593940735,0,Low
+T000910,17/12/2025 21:58,C87654,Gold,6.0,28.0,Account,I need to update my shipping address for future orders.,Medium,-0.9995664954185486,0,Medium
+T000911,18/12/2025 6:49,C31415,Platinum,9.0,38.0,Login,I'm having trouble resetting my password. The link is not working.,Medium,-0.9997795224189758,0,High
+T000912,18/12/2025 14:39,C27182,Classic,0.0,5.0,Other,Just checking on the status of my recent inquiry.,Low,-0.9684803485870361,0,Low
+T000913,19/12/2025 0:31,C62831,Silver,5.0,22.0,Payment,My payment failed but the money was debited from my account. This is urgent.,High,0.9748250246047974,1,Medium
+T000914,19/12/2025 8:08,C71828,Gold,8.0,35.0,Login,My delivery is significantly delayed and I need it by tomorrow. This is not acceptable.,High,-0.9997709393501282,0,High
+T000915,19/12/2025 17:10,C16180,Platinum,11.0,45.0,Refund,This is the third time I'm requesting a refund for this faulty item. I need this resolved now.,High,-0.9996166229248047,0,High
+T000916,20/12/2025 2:19,C11235,Classic,3.0,10.0,Login,I am locked out of my account and need access ASAP. I have important files there.,High,-0.9953344464302063,1,Low
+T000917,20/12/2025 10:23,C89442,Silver,6.0,25.0,Product,The product I received is damaged. Please advise on the return process.,Medium,-0.999772846698761,0,Medium
+T000918,20/12/2025 19:03,C10987,Gold,5.0,26.0,Order,My order arrived incomplete. I am missing one item.,Medium,-0.9997614026069641,0,Medium
+T000919,21/12/2025 3:35,C65432,Platinum,8.0,32.0,Delivery,The courier marked my package as delivered but I never received it. This needs immediate attention.,High,-0.999241828918457,0,High
+T000920,21/12/2025 12:08,C11111,Classic,2.0,9.0,Payment,I have a question about a recent charge on my credit card.,Medium,-0.9932072758674622,0,Low
+T000921,21/12/2025 20:54,C22222,Silver,4.0,18.0,Account,Can you confirm my account details are up to date?,Low,0.94426429271698,0,Medium
+T000922,22/12/2025 5:11,C33333,Gold,7.0,31.0,Login,I forgot my password and cannot log in to my account.,Medium,-0.9984883069992065,0,Medium
+T000923,22/12/2025 14:14,C44444,Platinum,10.0,39.0,Refund,I am extremely frustrated with the quality of this product. I demand a full refund.,High,-0.9995958209037781,0,High
+T000924,22/12/2025 22:20,C55555,Classic,1.0,7.0,Delivery,When can I expect my order to be delivered?,Low,-0.9975962042808533,0,Low
+T000925,23/12/2025 7:29,C66666,Silver,3.0,14.0,Product,The item I ordered is not what was described on the website.,Medium,-0.9996477365493774,0,Low
+T000926,23/12/2025 16:48,C77777,Gold,6.0,29.0,Payment,My payment was declined but I have sufficient funds. This is holding up my order.,High,0.9898520112037659,0,Medium
+T000927,24/12/2025 1:10,C88888,Platinum,9.0,37.0,Order,I need to cancel an order that was placed by mistake.,Medium,-0.9996912479400635,0,High
+T000928,24/12/2025 9:32,C99999,Classic,0.0,6.0,Login,"I've never had this problem before, but I cannot log in to my account. Please help.",High,-0.9921455979347229,0,Low
+T000929,24/12/2025 17:52,C10101,Silver,5.0,23.0,Refund,I would like to request a refund for an item I no longer need.,Medium,-0.5001295208930969,0,Medium
+T000930,25/12/2025 3:48,C20202,Gold,8.0,33.0,Delivery,The delivery driver left my package in an unsafe location. I need it retrieved or replaced.,High,-0.9996808767318726,0,High
+T000931,25/12/2025 12:01,C30303,Platinum,11.0,46.0,Login,This is the second day I've been locked out of my account. This is unacceptable and I need access now.,High,-0.9991742968559265,0,High
+T000932,25/12/2025 19:46,C40404,Classic,2.0,11.0,Account,I need to change the email address associated with my account.,Low,-0.99943608045578,0,Low
+T000933,26/12/2025 5:33,C50505,Silver,4.0,19.0,Order,My order is incorrect and I have a time-sensitive event. I need this fixed urgently.,High,-0.997660756111145,0,Medium
+T000934,26/12/2025 14:16,C60606,Gold,7.0,30.0,Product,The color of the product I received is different from what I ordered.,Medium,0.9753722548484802,0,Medium
+T000935,26/12/2025 22:06,C70707,Platinum,10.0,42.0,Login,There's a fraudulent charge on my account that I did not authorize. Please reverse it immediately.,High,-0.9981467723846436,0,High
+T000936,27/12/2025 5:52,C80808,Classic,1.0,9.0,Other,Could you please provide an update on my support request?,Low,-0.9967909455299377,0,Low
+T000937,27/12/2025 15:24,C90909,Silver,3.0,16.0,Login,"I'm unable to reset my password, the system is not sending the email.",Medium,-0.9945171475410461,0,Medium
+T000938,27/12/2025 23:16,C11212,Gold,6.0,27.0,Refund,I'm very unhappy with the quality of the service. I demand a refund for my last purchase.,High,-0.9996562004089355,0,Medium
+T000939,28/12/2025 8:04,C12312,Platinum,9.0,36.0,Delivery,"My delivery has been delayed for over a week. I need to know when it will arrive, and this is unacceptable.",High,-0.9997180104255676,0,High
+T000940,28/12/2025 17:52,C13231,Classic,2.0,10.0,Payment,I have a question about the billing for my last order.,Medium,-0.9982126951217651,0,Low
+T000941,29/12/2025 1:22,C14141,Silver,5.0,21.0,Order,I want to track the status of my recent order.,Low,-0.9844475984573364,0,Medium
+T000942,29/12/2025 10:41,C15151,Gold,8.0,34.0,Login,I seem to have forgotten my login details. Can you assist?,Medium,-0.9997565150260925,0,High
+T000943,29/12/2025 18:41,C16161,Platinum,11.0,44.0,Product,This product is not working at all. I need a replacement or a refund urgently.,High,-0.9997814297676086,0,High
+T000944,30/12/2025 3:26,C17171,Classic,0.0,7.0,Account,How do I update my contact information?,Low,-0.9989109039306641,0,Low
+T000945,30/12/2025 12:54,C18181,Silver,3.0,13.0,Delivery,My package was left in the rain. It might be damaged.,Medium,-0.9995879530906677,0,Low
+T000946,30/12/2025 21:59,C19191,Gold,6.0,28.0,Payment,"My payment was processed, but the order did not go through. This is urgent.",High,-0.9582207798957825,1,Medium
+T000947,31/12/2025 4:56,C20202,Platinum,9.0,37.0,Refund,I'd like to request a refund for an item I returned.,Medium,-0.9962206482887268,0,High
+T000948,31/12/2025 15:13,C21212,Classic,1.0,8.0,Order,When will my order be shipped?,Low,-0.998764157295227,0,Low
+T000949,31/12/2025 22:12,C22222,Silver,4.0,17.0,Login,I am completely locked out of my account and need access right now.,High,-0.9991589784622192,0,Medium
+T000950,1/1/2026 7:03,C23232,Gold,7.0,31.0,Delivery,The tracking shows my package is stuck in transit. Can you provide an update?,Medium,-0.9996724128723145,0,Medium
+T000951,1/1/2026 15:58,C24242,Platinum,10.0,40.0,Account,My account has been compromised and I need to secure it immediately. Please help.,High,-0.9968910813331604,0,High
+T000952,2/1/2026 0:06,C25252,Classic,2.0,11.0,Product,I received a damaged item. What are my options?,Medium,-0.9992030262947083,0,Low
+T000953,2/1/2026 8:46,C26262,Silver,5.0,22.0,Payment,Is there a discount for bulk orders?,Low,-0.9977491497993469,0,Medium
+T000954,2/1/2026 17:43,C27272,Gold,8.0,32.0,Order,I need to change the shipping address for an order that hasn't shipped yet.,Medium,-0.999666690826416,0,High
+T000955,3/1/2026 3:15,C28282,Platinum,11.0,43.0,Refund,This is the second time this has happened. I am very frustrated and want my money back now.,High,-0.9990591406822205,0,High
+T000956,3/1/2026 11:02,C12345,Classic,2.0,5.5,Login,"I cannot login to my account, I need a password reset asap",High,-0.9964577555656433,1,Low
+T000957,3/1/2026 21:14,C67890,Silver,4.0,12.0,Payment,"My recent payment did not go through, can you assist?",Medium,-0.9983021020889282,0,Low
+T000958,4/1/2026 4:49,C11223,Gold,7.0,28.0,Delivery,"My order hasn't arrived yet, this is urgent",High,0.8608095645904541,1,Medium
+T000959,4/1/2026 13:37,C44556,Platinum,10.0,35.0,Refund,"I need a refund for item X, it arrived damaged",High,-0.9997374415397644,0,High
+T000960,4/1/2026 21:50,C77889,Classic,1.0,2.0,Product,Just wondering about the specifications of product Y,Low,-0.9033260345458984,0,Low
+T000961,5/1/2026 6:28,C99001,Silver,3.0,8.0,Order,There is an issue with my order number 12345,Medium,-0.9988456964492798,0,Low
+T000962,5/1/2026 15:17,C22334,Classic,6.0,25.0,Account,I need to change my shipping address for my upcoming order,Medium,-0.9995928406715393,0,Medium
+T000963,5/1/2026 23:27,C55667,Platinum,9.0,40.0,Other,"My account is locked, I need access immediately",High,-0.9969730377197266,0,High
+T000964,6/1/2026 7:51,C88990,Classic,0.0,1.5,Login,Still can't log in after trying to reset my password multiple times.,High,-0.9967113733291626,0,Low
+T000965,6/1/2026 18:09,C33445,Silver,5.0,18.0,Payment,"The payment for my subscription failed again, please fix this.",High,-0.9997739195823669,0,Medium
+T000966,7/1/2026 2:33,C66778,Gold,8.0,32.0,Delivery,"I'm still waiting for my package, delivery was supposed to be yesterday.",High,-0.9953769445419312,0,High
+T000967,7/1/2026 11:36,C99002,Platinum,12.0,45.0,Refund,"I want a full refund for this faulty product, it's not working.",High,-0.9998027682304382,0,High
+T000968,7/1/2026 18:32,C11224,Classic,3.0,7.0,Product,"The item I received is not what I ordered, can you help?",Medium,-0.9997765421867371,0,Low
+T000969,8/1/2026 3:49,C44557,Silver,6.0,20.0,Order,"My order status is stuck at processing, when will it ship?",Medium,-0.9997711777687073,0,Medium
+T000970,8/1/2026 11:45,C77880,Gold,9.0,38.0,Account,I need to update my email address on my account.,Medium,-0.9993706345558167,0,High
+T000971,8/1/2026 21:46,C12346,Platinum,11.0,42.0,Login,I'm locked out of my account and need urgent access.,High,-0.9994972944259644,1,High
+T000972,9/1/2026 6:44,C67891,Classic,1.0,3.0,Delivery,When can I expect my delivery for order 98765?,Low,-0.9976423382759094,0,Low
+T000973,9/1/2026 13:51,C11225,Silver,4.0,10.0,Payment,"Having trouble completing my purchase, payment is not going through.",Medium,-0.9996557235717773,0,Low
+T000974,9/1/2026 22:19,C44558,Gold,7.0,30.0,Refund,I need to request a refund for a defective item. This is frustrating.,High,-0.9997214674949646,0,Medium
+T000975,10/1/2026 8:10,C77881,Platinum,10.0,39.0,Product,"The product I received is broken, I need a replacement immediately.",High,-0.9997269511222839,0,High
+T000976,10/1/2026 16:36,C99003,Classic,2.0,4.0,Order,Could you confirm the details of my recent order?,Low,-0.9903593063354492,0,Low
+T000977,11/1/2026 1:46,C22335,Silver,5.0,15.0,Account,I would like to change my registered phone number.,Medium,-0.9984470009803772,0,Medium
+T000978,11/1/2026 8:48,C55668,Gold,8.0,33.0,Login,I've tried resetting my password but still can't access my account. This is urgent.,High,-0.993649423122406,1,High
+T000979,11/1/2026 18:44,C88991,Platinum,12.0,46.0,Delivery,My delivery is delayed for the third time. I need this resolved now.,High,-0.9982670545578003,0,High
+T000980,12/1/2026 2:59,C33446,Classic,5.0,1.0,Payment,I have a question about a charge on my statement.,Medium,-0.9767405390739441,0,Medium
+T000981,12/1/2026 12:25,C66779,Silver,3.0,9.0,Product,Can you provide more information about product Z?,Low,-0.9984388947486877,0,Low
+T000982,12/1/2026 19:29,C99004,Gold,6.0,27.0,Refund,I'm requesting a refund for an item I returned last week.,Medium,-0.9956154823303223,0,Medium
+T000983,13/1/2026 5:37,C11226,Platinum,9.0,37.0,Order,My order arrived incomplete. Please send the missing items urgently.,High,-0.9992341995239258,1,High
+T000984,13/1/2026 13:38,C44559,Classic,2.0,6.0,Login,I am unable to log into my account. Please help immediately.,High,0.9748753905296326,0,Low
+T000985,13/1/2026 21:50,C77882,Silver,5.0,14.0,Delivery,What is the estimated delivery time for my order?,Medium,-0.9992203712463379,0,Medium
+T000986,14/1/2026 6:20,C12347,Gold,7.0,31.0,Payment,My card was charged twice for the same order. This needs to be fixed today.,High,-0.9993587136268616,0,Medium
+T000987,14/1/2026 14:34,C67892,Platinum,10.0,41.0,Account,I need to close my account as soon as possible. This is an urgent request.,High,-0.9701390266418457,0,High
+T000988,15/1/2026 0:15,C11227,Classic,1.0,2.5,Other,Just a general inquiry about your return policy.,Low,-0.5380732417106628,0,Low
+T000989,15/1/2026 8:15,C44560,Silver,4.0,11.0,Refund,I would like to initiate a refund for an unwanted item.,Medium,-0.999460756778717,0,Low
+T000990,15/1/2026 18:04,C77883,Gold,8.0,34.0,Login,I am completely locked out of my account and require immediate assistance.,High,-0.9991472959518433,0,High
+T000991,16/1/2026 2:11,C99005,Platinum,11.0,43.0,Delivery,This is the second time my delivery has been missed. I am very frustrated.,High,-0.9994551539421082,0,High
+T000992,16/1/2026 11:27,C22336,Classic,5.0,7.5,Product,I received the wrong size for the item I ordered.,Medium,-0.9997149109840393,0,Medium
+T000993,16/1/2026 19:19,C55669,Classic,6.0,21.0,Order,Can you confirm if my order has been shipped yet?,Medium,-0.9976363182067871,0,Medium
+T000994,17/1/2026 4:07,C88992,Gold,9.0,36.0,Payment,My payment has been declined multiple times. Please advise urgently.,High,-0.7748328447341919,1,High
+T000995,17/1/2026 11:40,C33447,Platinum,12.0,47.0,Refund,I am demanding a refund for this faulty product. It needs to be resolved today.,High,-0.9997984766960144,0,High
+T000996,17/1/2026 22:09,C66780,Classic,0.0,1.2,Login,I forgot my password and need to reset it.,Medium,-0.9994804263114929,0,Low
+T000997,18/1/2026 6:07,C99006,Silver,2.0,5.0,Account,How do I update my billing information?,Low,-0.999091625213623,0,Low
+T000998,18/1/2026 14:36,C11228,Gold,5.0,26.0,Delivery,My package seems to be lost in transit. Can you check on it?,Medium,-0.9995101690292358,0,Medium
+T000999,18/1/2026 22:14,C44561,Platinum,8.0,38.5,Product,The item is not as described on your website. I need this resolved immediately.,High,-0.9977999329566956,0,High
+T001000,19/1/2026 7:04,C77884,Classic,4.0,9.5,Order,My order is incorrect and I need it fixed ASAP.,High,-0.9997166991233826,1,Low
